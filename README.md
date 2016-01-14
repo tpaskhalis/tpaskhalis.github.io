@@ -1,2 +1,2 @@
-# tpaskhalis.gihub.io
+# tpaskhalis.github.io
 Personal page of Tom Paskhalis
