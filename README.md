@@ -1,5 +1,6 @@
-# tpaskhalis.github.io
-Tom G. Paskhalis
+# Tom G. Paskhalis
+
+[![Build Status](https://travis-ci.org/tpaskhalis/tpaskhalis.github.io.png?branch=master)](https://travis-ci.org/tpaskhalis/tpaskhalis.github.io)
 
 This is the git repo for my webpage.
 
@@ -13,3 +14,4 @@ Some of the tools I used in building it:
 * [Jekyll Bootstrap](http://jekyllbootstrap.com/) for Jekyll customisation.
 * [Bootstrap](http://getbootstrap.com/) as the theme.
 * [Font Awesome](http://fontawesome.io/) for icons.
+
