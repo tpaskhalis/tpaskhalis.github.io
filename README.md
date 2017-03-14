@@ -11,3 +11,5 @@ Some of the tools I used in building it:
 * [1984.is](https://www.1984.is) for DNS management.
 * [Jekyll](https://jekyllrb.com) for site building.
 * [Jekyll Bootstrap](http://jekyllbootstrap.com/) for Jekyll customisation.
+* [Bootstrap](http://getbootstrap.com/) as the theme.
+* [Font Awesome](http://fontawesome.io/) for icons.
