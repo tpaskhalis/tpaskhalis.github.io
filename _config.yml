@@ -10,12 +10,13 @@ highlighter: pygments
 #
 title : Tom Paskhalis
 tagline: Site Tagline
-author :
-  name : Tom Paskhalis
-  email : t.g.paskhalis@lse.ac.uk
-  github : tpaskhalis
-  twitter : tpaskhalis
-  feedburner : feedname
+author : Tom Paskhalis
+
+# Social media links
+email : t.g.paskhalis@lse.ac.uk
+github : tpaskhalis
+twitter : tpaskhalis
+linkedin: tpaskhalis
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -81,21 +82,21 @@ JB :
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
-  comments :
-    provider : disqus
-    disqus :
-      short_name : jekyllbootstrap
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
-    facebook :
-      appid : 123
-      num_posts: 5
-      width: 580
-      colorscheme: light
-    duoshuo :
-      short_name : jekyllbootstrap
+  #comments :
+    #provider : disqus
+    #disqus :
+#      short_name : jekyllbootstrap
+    #livefyre :
+      #site_id : 123
+    #intensedebate :
+      #account : 123abc
+    #facebook :
+      #appid : 123
+      #num_posts: 5
+      #width: 580
+      #colorscheme: light
+    #duoshuo :
+      #short_name : jekyllbootstrap
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
