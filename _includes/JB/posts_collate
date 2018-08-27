@@ -31,9 +31,15 @@ Usage:
       <h3>{{this_month}}</h3>
       <ul>
     {% endif %}
+
+	<div class="blog-post">
+	<h2 class="blog-post-title">{{ post.title }}</h2>
+	<p class="blog-post-meta">{{ post.date | date: "%B %e, %Y" }}</p>
+	<p>{{ post.excerpt }}</p>
+	<a href="{{ BASE_PATH }}{{ post.url }}"> Continue reading</a>
+    </div>
   
-    <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  
+      
     {% if forloop.last %}
       </ul>
     {% else %}

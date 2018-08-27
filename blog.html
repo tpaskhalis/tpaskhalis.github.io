@@ -6,9 +6,9 @@ group: navigation
 ---
 {% include JB/setup %}
 
-<div class="container">
+<main role="main" class="container">
    <div class="row">
-      <div class="col-md-8">
+      <div class="col-md-8 blog-main">
         {% assign posts_collate = site.posts %}
         {% include JB/posts_collate %}
       </div>
@@ -19,5 +19,5 @@ group: navigation
         </div>
       </div>
    </div>
-</div>
+</main>
 
