@@ -1,0 +1,47 @@
+<div class="page-header">
+  <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+</div>
+
+<div class="row post-full">
+  <div class="col-xs-12">
+    <div class="date">
+      <span>{{ page.date | date_to_long_string }}</span>
+    </div>
+    <div class="content">
+      {{ content }}
+    </div>
+
+  {% unless page.categories == empty %}
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-open"></i></li>
+      {% assign categories_list = page.categories %}
+      {% include JB/categories_list %}
+    </ul>
+  {% endunless %}  
+
+  {% unless page.tags == empty %}
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-tags"></i></li>
+      {% assign tags_list = page.tags %}
+      {% include JB/tags_list %}
+    </ul>
+  {% endunless %}  
+  
+    <hr>
+    <nav class="blog-pagination">
+    {% if page.previous %}
+      <a class="btn btn-outline-primary" href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&laquo; Previous</a>
+    {% else %}
+      <a class="btn btn-outline-primary disabled">&larr; Previous</a>
+    {% endif %}
+      <a class="btn btn-info" href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a>
+    {% if page.next %}
+      <a class="btn btn-outline-secondary" href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &raquo;</a>
+    {% else %}
+      <a class="btn btn-outline-secondary disabled">Next &rarr;</a>
+    {% endif %}
+    </nav>
+    <hr>
+    {% include JB/comments %}
+  </div>
+</div>
