@@ -28,7 +28,7 @@ linkedin: tpaskhalis
 #
 production_url : http://tpaskhalis.github.io
 
-gems: ["jekyll-sitemap"]
+plugins: ["jekyll-sitemap"]
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
