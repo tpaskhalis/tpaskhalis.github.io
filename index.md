@@ -7,7 +7,7 @@ I am a PhD candidate at the [London School of Economics and Political Science](h
 
 My methodological research interests include text analysis, machine learning, record linkage and data visualisation. Substantively, I'm interested in comparative and British politics, political parties and lobbying. Specifically, how and why organisations get access to government and what other strategies they employ to affect policy.
 
-I am an open source enthusiast and a member of the [rOpenSci](https://ropensci.org/) initiative. Check my [Github profile](https://github.com/tpaskhalis/) for some of the packages.
+I am an open source enthusiast and a member of the [rOpenSci](https://ropensci.org/) initiative. Check [Software page](/software) or my [Github profile](https://github.com/tpaskhalis/) for examples.
 
 Prior to starting my PhD I have spent some time in data science industry. I received my BA in Political Psychology from the [St Petersburg State University](http://english.spbu.ru/), [Department of Psychology](http://www.psy.spbu.ru/english-version) and my MSc in Social Research Methods from LSE. Apart from social science training, I also have a diploma in Software Engineering from the [SPbU, Faculty of Mathematics and Mechanics](http://www.math.spbu.ru/eng/).
 
@@ -18,4 +18,6 @@ Prior to starting my PhD I have spent some time in data science industry. I rece
 <a href="https://github.com/{{ site.github }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-github-square"></i>GitHub</a>
 
 <a href="https://linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-linkedin-square"></i>LinkedIn</a>
+
+<a href="https://orcid.org/{{ site.orcid }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-fw ai-orcid-square"></i>ORCID</a>
 
