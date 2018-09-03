@@ -13,6 +13,6 @@ Some of the tools I used in building it:
 * [Jekyll](https://jekyllrb.com) for site building. *v.3.7.3*
 * [Jekyll Bootstrap](http://jekyllbootstrap.com/) for Jekyll customisation. *v.0.3.0, orphaned*
 * [Bootstrap](http://getbootstrap.com/) as the theme. *v.4.1.3*
-* [Font Awesome](http://fontawesome.io/) for icons.
+* [Font Awesome](http://fontawesome.io/) for icons. *v.5.3.1*
 * [Academicons](https://jpswalsh.github.io/academicons/) for more icons. *v.1.8.6*
 
