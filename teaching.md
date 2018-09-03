@@ -7,6 +7,8 @@ group: navigation
 
 I was involved as an assistant in teaching several courses on methodology at the Master/PhD level.
 
+* MY470 [Computer Programming](https://github.com/lse-my470/lectures) with *Milena Tsvetkova* and *Pablo Barberá*.
+
 * MY459 [Quantitative Text Analysis](https://lse-my459.github.io/) with *Kenneth Benoit*.
 
 * MY452 [Applied Regression Analysis](http://www.lse.ac.uk/resources/Calendar/courseGuides/MY/2018_MY452.htm) with *Daniele Fanelli* and *Indraneel Sircar*.
