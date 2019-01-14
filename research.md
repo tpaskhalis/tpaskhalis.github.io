@@ -4,7 +4,7 @@ title: Research
 group: navigation
 ---
 
-## Working papers
+## Under Review
 
 ### *Gender, Justice and Deliberation: Women’s Voice in Post-Conflict Reconciliation*
 Denisa Kostovicova, **Tom Paskhalis**
@@ -13,18 +13,48 @@ Denisa Kostovicova, **Tom Paskhalis**
 role="button" aria-expanded="false" aria-controls="collapseAbstract2">Abstract</a></p>
 <div class="collapse" id="collapseAbstract2">
 <div class="card card-body">
-Gender-just quality peace is elusive despite women’s increased participation in peace-making. Exist-
-ing research focuses on gender-responsive provisions in peace agreements and transitional justice instru-
-ments. Turning to processes that lead to those gender-insensitive outcomes, we study women’s speaking
-behaviour to find out why women’s representation in justice-seeking does not translate into influence.
-We apply multi-method quantitative text analysis to an original corpus of over half a million words in six
-languages from 20 civil society debates about reconciliation in the post-conflict Balkans. Empirical evi-
-dence points to a gendered pattern of speech. Gender-specific topics, including silence on war-time sexual
-violence, and male domination at the micro-level of turn-taking explain a gender-insensitive outcome,
-rather than commonly assumed indicators of gender inequality such as women’s representation, including
-the frequency and length of their contributions, or gender differences in the quality of deliberation.
+Gender-just peace is elusive despite women’s increased participation in peace-making.
+Scholars have focused on the content of peace-agreements and the design of
+transitional justice instruments while overlooking the question of how processes
+that lead to those outcomes may themselves be gendered. We study women’s speaking behavior
+to find out why women’s representation in justice-seeking does not result
+in gender-responsive outcomes. We apply multi-method quantitative text analysis
+to an original corpus of over half a million words in six languages from civil
+society debates about reconciliation in the post-conflict Balkans.
+Our analysis shows that male dominance at the micro-level of turn-taking
+and the absence of topics addressing gender-specific experience of conflict
+lead to gender-insensitive outcomes, rather than commonly assumed indicators
+of gender inequality such as women’s representation, including the frequency,
+length and the deliberative quality of their speech.
+This study also contributes to understanding women’s role and influence in political debates.
 </div>
 </div>
+
+### *Data in Transitional Justice: Technological Advances, Theoretical Gains and Ethical Dilemmas*
+Denisa Kostovicova, Rachel Kerr, Ivor Sokolic, Tiffany Fairey, Henry Redwood,
+Jelena Subotic, **Tom Paskhalis**
+
+<p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract1"
+role="button" aria-expanded="false" aria-controls="collapseAbstract1">Abstract</a></p>
+<div class="collapse" id="collapseAbstract1">
+<div class="card card-body">
+New digital technologies have transformed the landscape of transitional justice
+research. The ‘digital turn’ has led to an explosion in the amount and types of data
+created through social media channels, data digitisation has made existing data more
+easily accessible, and raised new questions around its curation, while new
+technologies have made possible innovative analytical techniques. These
+developments, and their theoretical and ethical implications are as yet poorly
+understood. We draw on new research using digital archives, court transcripts, social
+media (Facebook) and visual images. We show how, in each of these domains, new
+digital technologies have enabled us to: expand empirical evidence for scholarly
+claims; to understand the mechanics of transitional justice processes by analysing how
+data is produced and curated; and to shift the focus from normative rhetorical claims
+about transitional justice goals on to how transitional justice is enacted and articulated
+as particular social and political processes.
+</div>
+</div>
+
+## Working papers
 
 ### *The Least Unclear Language: How Avoiding Negatives Produces Positive Understanding*
 **Tom Paskhalis**, Christian Müller
@@ -58,32 +88,12 @@ coding.
 </div>
 </div>
 
-### *Data in Transitional Justice: Technological Advances, Theoretical Gains and Ethical Dilemmas*
-Denisa Kostovicova, Rachel Kerr, Ivor Sokolic, Tiffany Fairey, Henry Redwood,
-Jelena Subotic, **Tom Paskhalis**
-
-<p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract1"
-role="button" aria-expanded="false" aria-controls="collapseAbstract1">Abstract</a></p>
-<div class="collapse" id="collapseAbstract1">
-<div class="card card-body">
-New technologies provide scholars and practitioners with challenges and opportunities. On one
-hand, there is ‘too much’ data, mostly, but not exclusively in digital archives and social media,
-and new ethical concerns, around data sharing, use and attribution. On the other hand, new
-datasets provide opportunities to address the problem of ‘too little’ evidence, and technology
-can help us to process and analyze even the largest datasets relatively efficiently, using
-innovative methods. In this paper, we consider these opportunities and challenges from the
-perspective of transitional justice, interrogating the various ways in which technology can help
-operationalize data and drive the research agenda forward. We consider a range of new data
-technologies – digital archives, visual images, transcripts, social media (Facebook) and analytic
-software – which make possible novel ways of thinking, and the potential for new questions and
-insights, grounding theory in knowledge generated by transitional justice processes themselves.
-</div>
-</div>
-
-
 ## Work in progress
 
 ### *Interest Group Access to the Government: Who Gets It?*
+**Tom Paskhalis**
+
+### *Record Linkage with Text: Matching Interest Groups in the UK*
 **Tom Paskhalis**
 
 ### *Interest Group Strategies in the Digital Era: Lobbying and Social Media*

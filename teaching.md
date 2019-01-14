@@ -5,7 +5,13 @@ group: navigation
 ---
 {% include JB/setup %}
 
-I was involved as an assistant in teaching several courses on methodology at the Master/PhD level.
+This term (Lent, 2019/19) I am teaching two workshops:
+
+* MY491 Introduction to R, and
+
+* [Text Analysis in R](https://github.com/tpaskhalis/VAM_Text_Analysis/)
+
+Before I was involved as an assistant in teaching several courses on methodology at the Masters/PhD level.
 
 * MY470 [Computer Programming](https://github.com/lse-my470/lectures) with *Milena Tsvetkova* and *Pablo Barberá*.
 
