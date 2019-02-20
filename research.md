@@ -13,44 +13,20 @@ Denisa Kostovicova, **Tom Paskhalis**
 role="button" aria-expanded="false" aria-controls="collapseAbstract2">Abstract</a></p>
 <div class="collapse" id="collapseAbstract2">
 <div class="card card-body">
-Gender-just peace is elusive despite women’s increased participation in peace-making.
-Scholars have focused on the content of peace-agreements and the design of
-transitional justice instruments while overlooking the question of how processes
-that lead to those outcomes may themselves be gendered. We study women’s speaking behavior
-to find out why women’s representation in justice-seeking does not result
-in gender-responsive outcomes. We apply multi-method quantitative text analysis
-to an original corpus of over half a million words in six languages from civil
-society debates about reconciliation in the post-conflict Balkans.
-Our analysis shows that male dominance at the micro-level of turn-taking
-and the absence of topics addressing gender-specific experience of conflict
-lead to gender-insensitive outcomes, rather than commonly assumed indicators
-of gender inequality such as women’s representation, including the frequency,
-length and the deliberative quality of their speech.
-This study also contributes to understanding women’s role and influence in political debates.
-</div>
-</div>
-
-### *Data in Transitional Justice: Technological Advances, Theoretical Gains and Ethical Dilemmas*
-Denisa Kostovicova, Rachel Kerr, Ivor Sokolic, Tiffany Fairey, Henry Redwood,
-Jelena Subotic, **Tom Paskhalis**
-
-<p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract1"
-role="button" aria-expanded="false" aria-controls="collapseAbstract1">Abstract</a></p>
-<div class="collapse" id="collapseAbstract1">
-<div class="card card-body">
-New digital technologies have transformed the landscape of transitional justice
-research. The ‘digital turn’ has led to an explosion in the amount and types of data
-created through social media channels, data digitisation has made existing data more
-easily accessible, and raised new questions around its curation, while new
-technologies have made possible innovative analytical techniques. These
-developments, and their theoretical and ethical implications are as yet poorly
-understood. We draw on new research using digital archives, court transcripts, social
-media (Facebook) and visual images. We show how, in each of these domains, new
-digital technologies have enabled us to: expand empirical evidence for scholarly
-claims; to understand the mechanics of transitional justice processes by analysing how
-data is produced and curated; and to shift the focus from normative rhetorical claims
-about transitional justice goals on to how transitional justice is enacted and articulated
-as particular social and political processes.
+Gender-just peace is elusive despite women’s increased participation in peace-
+making. Scholars have focused on the content of peace-agreements and the design
+of transitional justice instruments while overlooking how processes behind those
+outcomes may themselves be gendered. We study women’s speaking behavior to
+find out why women’s presence during justice-seeking does not result in gender-
+responsive outcomes. We apply multi-method text analysis to an original corpus of
+over half a million words in six languages from civil society debates in the post-
+conflict Balkans. These debates preceded the adoption of the Statute of the Re-
+gional Fact-Finding Commission that does not reflect women’s needs and concerns.
+Our analysis shows that male dominance at the micro-level of turn-taking and
+the absence of topics addressing gender-specific experience of conflict drive gender-
+insensitive outcome, rather than commonly assumed indicators of gender inequality
+such as women’s representation, including the frequency, length and the deliberative
+quality of their speech.
 </div>
 </div>
 
