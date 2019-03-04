@@ -5,9 +5,9 @@ group: navigation
 ---
 {% include JB/setup %}
 
-This term (Lent, 2019/19) I am teaching two workshops:
+This term (Lent, 2018/19) I am teaching two workshops:
 
-* MY491 Introduction to R, and
+* MY591 [Introduction to R](https://tom.paskhal.is/MY591/intro_to_r.html), and
 
 * [Text Analysis in R](https://github.com/tpaskhalis/VAM_Text_Analysis/)
 
