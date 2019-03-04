@@ -234,15 +234,6 @@ $(document).ready(function () {
 <p>Or you can load it from a saved file, using:</p>
 <pre class="r"><code>college &lt;- read.csv(&quot;path_to_my_file/College.csv&quot;)</code></pre>
 <ol start="2" style="list-style-type: lower-alpha">
-<li>Look at the data using the <code>View()</code> function. You should notice that the first column is just the name of each university. We don’t really want <code>R</code> to treat this as data. However, it may be handy to have these names for later. Try the following commands:</li>
-</ol>
-<pre class="r"><code>rownames(college) &lt;- college[, 1] 
-View(college)</code></pre>
-<p>You should see that there is now a <code>row.names</code> column with the name of each university recorded. This means that <code>R</code> has given each row a name corresponding to the appropriate university. <code>R</code> will not try to perform calculations on the row names. However, we still need to eliminate the first column in the data where the names are stored. Try</p>
-<pre class="r"><code>college &lt;- college[, -1] 
-View(college)</code></pre>
-<p>Now you should see that the first data column is <code>Private</code>. Note that another column labeled <code>row.names</code> now appears before the <code>Private</code> column. However, this is not a data column but rather the name that <code>R</code> is giving to each row.</p>
-<ol start="3" style="list-style-type: lower-alpha">
 <li></li>
 </ol>
 <ol style="list-style-type: lower-roman">
@@ -274,9 +265,9 @@ View(college)</code></pre>
 <pre class="r"><code>auto &lt;- read.csv(&quot;http://www-bcf.usc.edu/~gareth/ISL/Auto.csv&quot;, na.strings = &quot;?&quot;)
 auto &lt;- na.omit(auto)</code></pre>
 <ol style="list-style-type: lower-alpha">
-<li>Which of the predictors are quantitative, and which are qualitative?</li>
+<li>Which of the predictors are numeric, and which are categorical?</li>
 </ol>
-<p>Note: Sometimes when you load a dataset, a qualitative variable might have a numeric value. For instance, the <code>origin</code> variable is qualitative, but has integer values of 1, 2, 3. From mysterious sources (Googling), we know that this variable is coded <code>1 = usa; 2 = europe; 3 = japan</code>. So we can covert it into a factor, using:</p>
+<p>Note: Sometimes when you load a dataset, a categoriccal variable might have a numeric value. For instance, the <code>origin</code> variable is categorical, but has integer values of 1, 2, 3. From mysterious sources (Googling), we know that this variable is coded <code>1 = usa; 2 = europe; 3 = japan</code>. So we can covert it into a factor, using:</p>
 <pre class="r"><code>auto$originf &lt;- factor(auto$origin, labels = c(&quot;usa&quot;, &quot;europe&quot;, &quot;japan&quot;))</code></pre>
 <ol start="2" style="list-style-type: lower-alpha">
 <li><p>Using the full data set, investigate the predictors graphically, using scatterplots or other tools of your choice. Create some plots highlighting the relationships among the predictors. Comment on your findings.</p></li>
@@ -288,7 +279,7 @@ auto &lt;- na.omit(auto)</code></pre>
 <li><p>What is the R-squared for this model? Access the <code>r.squared</code> value from the <code>summary</code> of the model object, and save it as its own object.</p></li>
 </ol></li>
 <li><p>Use the <code>plot()</code> function to produce diagnostic plots of the linear regression fit. Comment on any problems you see with the fit. Do the residual plots suggest any unusually large outliers? Does the leverage plot identify any observations with unusually high leverage?</p></li>
-<li>I would like to know which of the following cars is has the higher miles-to-gallon ratio:
+<li>We would like to know which of the following cars is has the higher miles-to-gallon ratio:
 <ul>
 <li>A 6 cylinder European car which weighs 4000 kg and accelerates from 0-60 in 12 seconds</li>
 <li>A 4 cylinder Japanese car which weighs 2000 kg and accelerates from 0-60 in 20 seconds</li>
