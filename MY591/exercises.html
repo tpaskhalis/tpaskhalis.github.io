@@ -70,9 +70,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type="text/css">
 .main-container {
@@ -103,8 +101,6 @@ summary {
 </style>
 
 
-
-<div class="container-fluid main-container">
 
 <!-- tabsets -->
 
@@ -179,14 +175,23 @@ $(document).ready(function () {
 
 
 
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
 
 <div class="fluid-row" id="header">
 
 
 
 <h1 class="title toc-ignore">Introduction to R Programming</h1>
-<h3 class="subtitle"><em>Exercises</em></h3>
-<h4 class="author"><em>Tom Paskhalis</em></h4>
+<h3 class="subtitle">Exercises</h3>
+<h4 class="author">Tom Paskhalis</h4>
 
 </div>
 
@@ -198,7 +203,7 @@ $(document).ready(function () {
 <li><p>In the script window, write code that creates a vector composed of 5 single-digit integers. To concatinate a series of values, use the <code>c()</code> function, with each argument separated by a comma. So, a character vector of length three could be <code>c(&quot;a&quot;, &quot;b&quot;, &quot;c&quot;)</code>. Assign your integer vector using the assignment operator <code>&lt;-</code> to an object with a name of your choosing.</p></li>
 <li><p>Multiply your vector by 3, and assign the output to a new object. <code>print</code> the values of your new object.</p></li>
 <li><p>Add together the two objects that you have created to far, <code>print</code>ing the result. Note that R operates on vectors element-wise.</p></li>
-<li><p>Create a logical vector of length five, again using the <code>c()</code> function. Make sure that you have a mix of <code>TRUE</code> and <code>FALSE</code> values in the vector. Use the logical vector to subset the numeric vector that you created in question 2 and <code>print</code> the result.</p></li>
+<li><p>Create a logical vector of length five, again using the <code>c()</code> function. Make sure that you have a mix of <code>TRUE</code> and <code>FALSE</code> values in the vector. Use the logical vector to subset the numeric vector that you created in question 2 and <code>print</code> the result. Check what happens when the logical vector is shorter than the numeric vector.</p></li>
 <li><p>Subset to just the first two elements of the numeric vector that you created in question 2 and assign the result to have the name <code>my_short_vector</code>.</p></li>
 </ol>
 </div>
