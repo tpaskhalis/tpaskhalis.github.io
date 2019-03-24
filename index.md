@@ -1,13 +1,16 @@
 ---
 layout: page
+title: Tom Paskhalis, London School of Economics and Political Science
 ---
 {% include JB/setup %}
 
-I am a PhD candidate at the [London School of Economics and Political Science](http://www.lse.ac.uk), [Department of Methodology](http://www.lse.ac.uk/methodology/), supervised by [Kenneth Benoit](http://www.kenbenoit.net/) and [Benjamin Lauderdale](http://www.benjaminlauderdale.net/). 
+I am a PhD candidate at the [London School of Economics and Political Science](http://www.lse.ac.uk), [Department of Methodology](http://www.lse.ac.uk/methodology/), supervised by [Kenneth Benoit](https://kenbenoit.net/) and [Benjamin Lauderdale](http://www.benjaminlauderdale.net/).
 
-My methodological research interests include text analysis, machine learning, record linkage and data visualisation. Substantively, I'm interested in comparative and British politics, political parties and lobbying. Specifically, how and why organisations get access to government and what other strategies they employ to affect policy.
+My methodological research interests include text analysis, machine learning, record linkage and data visualisation. Substantively, I'm interested in comparative and British politics, political communication and lobbying. In my current research I analyse how organisations get access to government and what other strategies they employ to affect policy. I am also affiliated with the [Art & Reconciliation](https://artreconciliation.org/) project, in which we applied cutting-edge text analysis methods to [transitional justice debates](/research) and also created [art installation](https://www.youtube.com/watch?v=u1LcFGkmGpM) to make text-as-data approach more accessible to the general public.
 
-I am an open source enthusiast and a member of the [rOpenSci](https://ropensci.org/) initiative. Check [Software page](/software) or my [Github profile](https://github.com/tpaskhalis/) for examples.
+I am teaching a range of [quantitative methods courses](/teaching) and espouse experiential learning pedagogy for training in empirical political science research and data analysis.
+
+Apart from academic research, I am an open source enthusiast and a member of the [rOpenSci](https://ropensci.org/) initiative. Check [Software page](/software) or my [Github profile](https://github.com/tpaskhalis/) for the list of packages I have contributed to.
 
 Prior to starting my PhD I have spent some time in data science industry. I received my BA in Political Psychology from the [St Petersburg State University](http://english.spbu.ru/), [Department of Psychology](http://www.psy.spbu.ru/english-version) and my MSc in Social Research Methods from LSE. Apart from social science training, I also have a diploma in Software Engineering from the [SPbU, Faculty of Mathematics and Mechanics](http://www.math.spbu.ru/eng/).
 
@@ -20,4 +23,3 @@ Prior to starting my PhD I have spent some time in data science industry. I rece
 <a href="https://linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-linkedin-square"></i>LinkedIn</a>
 
 <a href="https://orcid.org/{{ site.orcid }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-fw ai-orcid-square"></i>ORCID</a>
-
