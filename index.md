@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tom Paskhalis, London School of Economics and Political Science
+group: index
 ---
 {% include JB/setup %}
 

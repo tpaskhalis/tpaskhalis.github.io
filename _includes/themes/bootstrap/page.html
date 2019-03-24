@@ -1,5 +1,8 @@
 <div class="page-header">
+  <!-- Exclude title as the header of the main landing page -->
+  {% if page.group != "index" %}
   <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+  {% endif %}
 </div>
 
 <div class="row">
