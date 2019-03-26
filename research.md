@@ -19,6 +19,16 @@ We study women's speaking behavior to find out why women's presence in debates a
 
 ## Working papers
 
+##### *Interest Group Access and Campaign Spending Limits: Evidence from Brexit*
+**Tom Paskhalis**
+<p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract3"
+role="button" aria-expanded="false" aria-controls="collapseAbstract3">Abstract</a></p>
+<div class="collapse" id="collapseAbstract3">
+<div class="card card-body">
+Scholars have long been focussed on studying lobbying and potential influence that such activities can have on public policy. The ability to lobby state actors, however, critically depends on having access to them in the first place. So far much of the theoretical and empirical literature on potential mechanisms of acquiring access has been limited to donations or other forms of financial transactions. In this study I argue that in pluralist states with campaign spending limits, the influence of money is more restricted and other mechanisms such as economic importance, long period of state-government interactions and ideological proximity play an important role in meeting government officials. I use government transparency reports for 2010-2017 from the ministerial departments in the UK to measure the level of access and saliency of policy issues that provide evidence of the importance of these alternative mechanisms.
+</div>
+</div>
+
 ##### *The Least Unclear Language: How Avoiding Negatives Produces Positive Understanding*
 **Tom Paskhalis**, Christian Müller
 
@@ -30,17 +40,7 @@ Designing valid and reliable methods for coding large quantities of text is an i
 </div>
 </div>
 
-## Work in progress
-
-##### *Interest Group Access and Campaign Spending Limits: Evidence from Brexit*
-**Tom Paskhalis**
-<p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract3"
-role="button" aria-expanded="false" aria-controls="collapseAbstract3">Abstract</a></p>
-<div class="collapse" id="collapseAbstract3">
-<div class="card card-body">
-Scholars have long been focussed on studying lobbying and potential influence that such activities can have on public policy. The ability to lobby state actors, however, critically depends on having access to them in the first place. So far much of the theoretical and empirical literature on potential mechanisms of acquiring access has been limited to donations or other forms of financial transactions. In this study I argue that in pluralist states with campaign spending limits, the influence of money is more restricted and other mechanisms such as economic importance, long period of state-government interactions and ideological proximity play an important role in meeting government officials. I use government transparency reports for 2010-2017 from the ministerial departments in the UK to measure the level of access and saliency of policy issues that provide evidence of the importance of these alternative mechanisms.
-</div>
-</div>
+## Selected work in progress
 
 ##### *Record Linkage with Text: Merging Data Sets When Information is Limited*
 **Tom Paskhalis**
