@@ -7,7 +7,6 @@ group: navigation
 ## Working papers
 
 ##### *Interest Group Access and Campaign Spending Limits: Evidence from Brexit*
-**Tom Paskhalis**
 <p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract1"
 role="button" aria-expanded="false" aria-controls="collapseAbstract1">Abstract</a></p>
 <div class="collapse" id="collapseAbstract1">
@@ -17,7 +16,7 @@ Scholars have long been focussed on studying lobbying and potential influence th
 </div>
 
 ##### *Gender, Justice and Deliberation: Women’s Voice in Post-Conflict Reconciliation*
-Denisa Kostovicova, **Tom Paskhalis**
+(with Denisa Kostovicova)
 
 <p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract2"
 role="button" aria-expanded="false" aria-controls="collapseAbstract2">Abstract</a></p>
@@ -27,20 +26,19 @@ We study women's speaking behavior to find out why women's presence in debates a
 </div>
 </div>
 
-##### *Emotion  Shift  and  Transitional  Justice: A Micro- and Macro-level Effects in Justice Debates in the Balkans*
-Denisa  Kostovicova, Ivor Sokolic, **Tom Paskhalis**
+##### *Emotion  Shift  and  Transitional  Justice: Micro- and Macro-level Effects in Justice Debates in the Balkans*
+(with Denisa Kostovicova and Ivor Sokolic)
 <p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract3"
 role="button" aria-expanded="false" aria-controls="collapseAbstract3">Abstract</a></p>
 <div class="collapse" id="collapseAbstract3">
 <div class="card card-body">
-Scholars have studied the role of emotions in conflict (onset and dynamics) and in transitional justice processes (war crimes trials and truth commission). In contrast, we only have an intuitive understanding of emotions in a search for justice - before a transitional justice mechanism is put in place - that involves former adversaries. Drawing on theories of agonistic democracy, that foreground conflict and passions in the politics of divided societies, we study the affective dimension of justice-seeking. We account for varying levels of ethnic polarization within dyads involved in a regional conﬂict, and check wider societal emotional eﬀects of justice-seeking. This longitudinal study is the ﬁrst to link empirically micro- and macro-level emotional shift through transitional justice-seeking. The study applies quantitative text analysis to a corpus of 1 million words of multi-lingual transcripts of transitional justice debates in the Balkans, in combination with a six-country survey of some 6,000 respondents. This project furthers the study of emotions in conflict and peace processes by demonstrating how communicative interactions across ethnic lines account for the affective dimension of justice-seeking at a micro- and a macro-level.
+Scholars have studied the role of emotions in conflict (onset and dynamics) and in transitional justice processes (war crimes trials and truth commission). In contrast, we only have an intuitive understanding of emotions in a search for justice - before a transitional justice mechanism is put in place - that involves former adversaries. Drawing on theories of agonistic democracy, that foreground conflict and passions in the politics of divided societies, we study the affective dimension of justice-seeking. We account for varying levels of ethnic polarization within dyads involved in a regional conflict, and check wider societal emotional effects of justice-seeking. This longitudinal study is the first to link empirically micro- and macro-level emotional shift through transitional justice-seeking. The study applies quantitative text analysis to a corpus of 1 million words of multi-lingual transcripts of transitional justice debates in the Balkans, in combination with a six-country survey of some 6,000 respondents. This project furthers the study of emotions in conflict and peace processes by demonstrating how communicative interactions across ethnic lines account for the affective dimension of justice-seeking at a micro- and a macro-level.
 </div>
 </div>
 
 ## Selected work in progress
 
 ##### *Record Linkage with Text: Merging Data Sets When Information is Limited*
-**Tom Paskhalis**
 <p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract4"
 role="button" aria-expanded="false" aria-controls="collapseAbstract4">Abstract</a></p>
 <div class="collapse" id="collapseAbstract4">
@@ -49,5 +47,15 @@ The recent years have seen the emergence of new, more scalable ways to link info
 </div>
 </div>
 
-##### *’A  Word  After  a  Word  After  a  Word  is  Power’:  Automating Manipulation Checks for Experiments with Textual Responses*
-Krisztián Pósch, **Tom Paskhalis**
+##### *Parliament in Crisis: Power of Representative Assemblies in XVII century*
+(with Toni Rodon)
+<p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract5"
+role="button" aria-expanded="false" aria-controls="collapseAbstract5">Abstract</a></p>
+<div class="collapse" id="collapseAbstract5">
+<div class="card card-body">
+The standard explanation for the rise of medieval legislative assemblies invokes the idea that rulers lacking resources were forced to bargain with the societal actors who control them, thus conceding rights and representation. Yet, while most previous works have focused on the bargaining process between early representative assemblies and the monarch, we do not know much about how legislative actors behaved during these power voids. We contend that elites in early representative assemblies used these power struggles to signal their sovereignty over the realm. We empirically examine this logic using the activity reported in the XVII century in the Journals of the House of Commons and the House of Lords, two of the longest established representative assemblies in the world. In order to capture the power of both representative assemblies, we implement a novel strategy based on entropy of topic shares in daily records of parliamentary activity. Our findings show that elites in both representative assemblies strategically used power voids in order to signal their sovereignty preferences and eventually extract concessions from the Monarchy. Our findings have important implications for our understanding of early legislative assemblies and provide a new way of measuring institutional power through the analysis of text.
+</div>
+</div>
+
+##### *Independent Media in Electoral Autocracies*
+(with Bryn Rosenfeld, Katerina Tertytchnaya and Kohei Watanabe)
