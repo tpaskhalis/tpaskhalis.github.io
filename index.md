@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Tom Paskhalis, London School of Economics and Political Science
+title: Tom Paskhalis
 group: index
 ---
 {% include JB/setup %}
 
-I am a PhD candidate at the [London School of Economics and Political Science](http://www.lse.ac.uk), [Department of Methodology](http://www.lse.ac.uk/methodology/), supervised by [Kenneth Benoit](https://kenbenoit.net/) and [Benjamin Lauderdale](http://www.benjaminlauderdale.net/).
+I am a fellow at the [New York University](https://www.nyu.edu/), [Center for Social Media and Politics](https://csmapnyu.org) and a PhD candidate at the [London School of Economics and Political Science](http://www.lse.ac.uk), [Department of Methodology](http://www.lse.ac.uk/methodology/).
 
-My methodological research interests include text analysis, machine learning, record linkage and data visualisation. Substantively, I'm interested in comparative and British politics, political communication and lobbying. In my current research I analyse how organisations get access to government and what other strategies they employ to affect policy. I am also affiliated with the [Art & Reconciliation](https://artreconciliation.org/) project, in which we applied cutting-edge text analysis methods to [transitional justice debates](/research) and also created [art installation](https://www.youtube.com/watch?v=u1LcFGkmGpM) to make text-as-data approach more accessible to the general public.
+My methodological research interests include text analysis, machine learning, record linkage and data visualisation. Substantively, I'm interested in comparative and British politics, political communication, lobbying and social media. In my current research I analyse how organisations get access to government and what other strategies they employ to affect policy.
 
 I am teaching a range of [quantitative methods courses](/teaching) and espouse experiential learning pedagogy for training in empirical political science research and data analysis.
 
