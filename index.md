@@ -15,12 +15,12 @@ Apart from academic research, I am an open source enthusiast and a member of the
 
 Prior to starting my PhD I have spent some time in data science industry. I received my BA in Political Psychology from the [St Petersburg State University](http://english.spbu.ru/), [Department of Psychology](http://www.psy.spbu.ru/english-version) and my MSc in Social Research Methods from LSE. Apart from social science training, I also have a diploma in Software Engineering from the [SPbU, Faculty of Mathematics and Mechanics](http://www.math.spbu.ru/eng/).
 
-<a href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i>t.g.paskhalis@lse.ac.uk</a>
+<a href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-envelope"></i> tom.paskhalis@nyu.edu</a>
 
-<a href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-twitter-square"></i>Twitter</a>
+<a href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i> Twitter</a>
 
-<a href="https://github.com/{{ site.github }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-github-square"></i>GitHub</a>
+<a href="https://github.com/{{ site.github }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i> GitHub</a>
 
-<a href="https://linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-linkedin-square"></i>LinkedIn</a>
+<a href="https://linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i> LinkedIn</a>
 
-<a href="https://orcid.org/{{ site.orcid }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-fw ai-orcid-square"></i>ORCID</a>
+<a href="https://orcid.org/{{ site.orcid }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-orcid"></i> ORCID</a>
