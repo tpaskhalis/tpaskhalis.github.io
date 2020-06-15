@@ -6,7 +6,7 @@ group: navigation
 
 ## Working papers
 
-##### *Interest Group Access and Campaign Spending Limits: Evidence from Brexit*
+##### "Interest Group Access and Campaign Spending Limits: Evidence from Brexit"
 <p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract1"
 role="button" aria-expanded="false" aria-controls="collapseAbstract1">Abstract</a></p>
 <div class="collapse" id="collapseAbstract1">
@@ -15,7 +15,7 @@ Scholars have long been focussed on studying lobbying and potential influence th
 </div>
 </div>
 
-##### *Gender, Justice and Deliberation: Women’s Voice in Post-Conflict Reconciliation*
+##### "Gender, Justice and Deliberation: Women’s Voice in Post-Conflict Reconciliation", *R&R*
 (with Denisa Kostovicova)
 
 <p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract2"
@@ -26,19 +26,31 @@ We study women's speaking behavior to find out why women's presence in debates a
 </div>
 </div>
 
-##### *Emotion  Shift  and  Transitional  Justice: Micro- and Macro-level Effects in Justice Debates in the Balkans*
-(with Denisa Kostovicova and Ivor Sokolic)
+##### "Independent Media in Electoral Autocracies"
+(with Bryn Rosenfeld and Katerina Tertytchnaya)
+
 <p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract3"
 role="button" aria-expanded="false" aria-controls="collapseAbstract3">Abstract</a></p>
 <div class="collapse" id="collapseAbstract3">
 <div class="card card-body">
-Scholars have studied the role of emotions in conflict (onset and dynamics) and in transitional justice processes (war crimes trials and truth commission). In contrast, we only have an intuitive understanding of emotions in a search for justice - before a transitional justice mechanism is put in place - that involves former adversaries. Drawing on theories of agonistic democracy, that foreground conflict and passions in the politics of divided societies, we study the affective dimension of justice-seeking. We account for varying levels of ethnic polarization within dyads involved in a regional conflict, and check wider societal emotional effects of justice-seeking. This longitudinal study is the first to link empirically micro- and macro-level emotional shift through transitional justice-seeking. The study applies quantitative text analysis to a corpus of 1 million words of multi-lingual transcripts of transitional justice debates in the Balkans, in combination with a six-country survey of some 6,000 respondents. This project furthers the study of emotions in conflict and peace processes by demonstrating how communicative interactions across ethnic lines account for the affective dimension of justice-seeking at a micro- and a macro-level.
+A large literature recognizes growing threats to press freedom in electoral autocracies. However, few studies test how independent media under strain adjust coverage. We propose that outlets’ response to state pressure evolves endogenously based on their revenue mix and incentives to pander. We test this argument with evidence from contemporary Russia. Using a corpus of 85,000 news items, we investigate how the abrupt removal of independent outlet TV Rain from television providers influenced its coverage, and content similarity with state outlet Channel 1. We find that shortly after TV Rain was disconnected from providers, its tone of government coverage improved, and that the similarity of its content with state outlets increased. Overtime, however, TV Rain became more critical. Findings, which speak to scholarship on authoritarian endurance, highlight a tradeoff in autocrats’ use of intimidation. While attacks on free press may have short-term benefits, they could backfire over the longer run.
+</div>
+</div>
+
+##### "Parliament in Crisis: Power of Representative Assemblies in XVII century"
+(with Toni Rodon)
+
+<p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract5"
+role="button" aria-expanded="false" aria-controls="collapseAbstract5">Abstract</a></p>
+<div class="collapse" id="collapseAbstract5">
+<div class="card card-body">
+The standard explanation for the rise of medieval or modern legislative assemblies invokes the idea that rulers lacking resources were forced to bargain with other societal actors, who demanded rights and representation before conceding financial support. Most previous works have focused on the bargaining process between these representative assemblies and the monarch, but we still do not know much about how legislative actors behaved during this process. We contend that elites in early representative assemblies used these power struggles to set the political agenda and ultimately signal their desire for sovereignty over the realm. Besides bargaining for political power in exchange of resources, elites in Parliament sought to influence the course of political decisions by engaging in an agenda-setting strategy, signalling political power in many areas without necessarily having it. We empirically examine this mechanism on the XVII century England, using the activity reported in the Journals of the House of Commons and the House of Lords, two of the longest established representative assemblies in the world. In order to capture the power of both representative assemblies, we implement a novel strategy based on entropy of topic shares in daily records of parliamentary activity. Our findings show that elites in both representative assemblies strategically used power voids to signal their attention to a wider set of topics. During these power vacuums, parliamentarian elites attempted to cover a wider range of policy issues and tried to make themselves more visible to their constituents and especially to the monarch. Our findings have important implications for our understanding of early legislative assemblies and provide a new way of measuring institutional power through the analysis of text.
 </div>
 </div>
 
 ## Selected work in progress
 
-##### *Record Linkage with Text: Merging Data Sets When Information is Limited*
+##### "Record Linkage with Text: Merging Data Sets When Information is Limited"
 <p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract4"
 role="button" aria-expanded="false" aria-controls="collapseAbstract4">Abstract</a></p>
 <div class="collapse" id="collapseAbstract4">
@@ -47,15 +59,24 @@ The recent years have seen the emergence of new, more scalable ways to link info
 </div>
 </div>
 
-##### *Parliament in Crisis: Power of Representative Assemblies in XVII century*
-(with Toni Rodon)
-<p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract5"
-role="button" aria-expanded="false" aria-controls="collapseAbstract5">Abstract</a></p>
-<div class="collapse" id="collapseAbstract5">
+##### "Path to Fake: Who Goes and How Did They Get There?"
+(with Jonathan Nagler)
+
+<p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract4"
+role="button" aria-expanded="false" aria-controls="collapseAbstract4">Abstract</a></p>
+<div class="collapse" id="collapseAbstract4">
 <div class="card card-body">
-The standard explanation for the rise of medieval legislative assemblies invokes the idea that rulers lacking resources were forced to bargain with the societal actors who control them, thus conceding rights and representation. Yet, while most previous works have focused on the bargaining process between early representative assemblies and the monarch, we do not know much about how legislative actors behaved during these power voids. We contend that elites in early representative assemblies used these power struggles to signal their sovereignty over the realm. We empirically examine this logic using the activity reported in the XVII century in the Journals of the House of Commons and the House of Lords, two of the longest established representative assemblies in the world. In order to capture the power of both representative assemblies, we implement a novel strategy based on entropy of topic shares in daily records of parliamentary activity. Our findings show that elites in both representative assemblies strategically used power voids in order to signal their sovereignty preferences and eventually extract concessions from the Monarchy. Our findings have important implications for our understanding of early legislative assemblies and provide a new way of measuring institutional power through the analysis of text.
+Dubious websites advancing so called 'fake-news' have received a lot of attention, especially in the electoral context. While much of the research has been focused on their pervasiveness and prevalence in voters' media diets, we know less about the people who are prone to consume misleading information online and how they reach the websites that spread it. To answer these questions we combine a nationally representative two-wave panel collected during the 2018 United States Legislative elections with detailed information on the web-tracking activity of respondents for 2 months prior to the elections. Using the full web-browsing history we show that older respondents are more likely to visit unreliable news websites. We also find that users are more likely to go to unreliable media from Facebook, Twitter and email subscriptions than to credible sources, while search engines are more likely to lead to trustworthy news websites.
 </div>
 </div>
 
-##### *Independent Media in Electoral Autocracies*
-(with Bryn Rosenfeld, Katerina Tertytchnaya and Kohei Watanabe)
+##### "Emotion Shift and Transitional Justice in the Balkans"
+(with Denisa Kostovicova and Ivor Sokolic)
+
+<p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract3"
+role="button" aria-expanded="false" aria-controls="collapseAbstract3">Abstract</a></p>
+<div class="collapse" id="collapseAbstract3">
+<div class="card card-body">
+While emotions are central to recovery of post-conflict societies, we only have limited understanding of the role of emotions in transitional justice processes. Although it has been argued that post-conflict transitional justice needs to bring about a shift of negative to positive emotions to promote inter-ethnic reconciliation, we lack empirical evidence of emotion shift over time. To address this gap, we study a five-year-long multi-ethnic justice-seeking process. We focus on communication involving former adversaries, whilst drawing on theories of agonistic deliberation in divided societies, which foreground emotions and conflict in politics, and accounting for varying levels of exposure to violence. The study applies quantitative text analysis to a corpus of 1 million words of multi-lingual transcripts of transitional justice debates in the Balkans, in combination with a six-country survey of some 6,000 respondents. Instead of an emotion shift, we find that emotions remain stable over time, and identify prevalence of positive over negative emotions. At the micro level, dyads of speakers from ethnic groups involved in direct violence are more anxious, but not angrier or sadder, and more embedded in the transitional justice process. At the macro level of broader societies, we find that awareness of transitional justice debates is positively correlated with compassion. This fine-grained comparative study of emotions furthers the understanding of the affective dimension of transitional justice by providing evidence for a contentious but constructive transitional justice-seeking across ethnic lines without an emotion shift.
+</div>
+</div>
