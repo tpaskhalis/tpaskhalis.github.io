@@ -40,20 +40,20 @@ A large literature recognizes growing threats to press freedom in electoral auto
 ##### "Parliament in Crisis: Power of Representative Assemblies in XVII century"
 (with Toni Rodon)
 
-<p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract5"
-role="button" aria-expanded="false" aria-controls="collapseAbstract5">Abstract</a></p>
-<div class="collapse" id="collapseAbstract5">
+<p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract4"
+role="button" aria-expanded="false" aria-controls="collapseAbstract4">Abstract</a></p>
+<div class="collapse" id="collapseAbstract4">
 <div class="card card-body">
-The standard explanation for the rise of medieval or modern legislative assemblies invokes the idea that rulers lacking resources were forced to bargain with other societal actors, who demanded rights and representation before conceding financial support. Most previous works have focused on the bargaining process between these representative assemblies and the monarch, but we still do not know much about how legislative actors behaved during this process. We contend that elites in early representative assemblies used these power struggles to set the political agenda and ultimately signal their desire for sovereignty over the realm. Besides bargaining for political power in exchange of resources, elites in Parliament sought to influence the course of political decisions by engaging in an agenda-setting strategy, signalling political power in many areas without necessarily having it. We empirically examine this mechanism on the XVII century England, using the activity reported in the Journals of the House of Commons and the House of Lords, two of the longest established representative assemblies in the world. In order to capture the power of both representative assemblies, we implement a novel strategy based on entropy of topic shares in daily records of parliamentary activity. Our findings show that elites in both representative assemblies strategically used power voids to signal their attention to a wider set of topics. During these power vacuums, parliamentarian elites attempted to cover a wider range of policy issues and tried to make themselves more visible to their constituents and especially to the monarch. Our findings have important implications for our understanding of early legislative assemblies and provide a new way of measuring institutional power through the analysis of text.
+In the standard explanation for the rise of legislative assemblies rulers lacking resources were forced to bargain with other societal actors, who demanded rights and representation before conceding financial support. Most previous works have focused on the bargaining process between these earlier assemblies and the monarch largely ignoring the behaviour of legislative actors during this process. We contend that elites in early representative assemblies used these power struggles to set the political agenda and signal their desire for sovereignty over the realm. We empirically examine this mechanism on the XVII century England, using the activity reported in the Journals of the House of Commons and the House of Lords, two of the longest established representative assemblies in the world. In order to measure the power of both representative assemblies, we implement a novel strategy based on entropy of topic shares in daily records of parliamentary activity. We show that elites in both representative assemblies strategically used power voids to signal their attention to a wider set of topics. Our findings have important implications for our understanding of early and contemporary legislative assemblies and provide a new way of measuring institutional power through the analysis of text.
 </div>
 </div>
 
 ## Selected work in progress
 
 ##### "Record Linkage with Text: Merging Data Sets When Information is Limited"
-<p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract4"
-role="button" aria-expanded="false" aria-controls="collapseAbstract4">Abstract</a></p>
-<div class="collapse" id="collapseAbstract4">
+<p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract5"
+role="button" aria-expanded="false" aria-controls="collapseAbstract5">Abstract</a></p>
+<div class="collapse" id="collapseAbstract5">
 <div class="card card-body">
 The recent years have seen the emergence of new, more scalable ways to link information about individuals across multiple data sources. However, merging data sets when the number of variables used for record linkage is restricted remains challenging. In this paper I consider the case when the information is limited to a single multi-token text string. This situation often occurs when researchers work with organisation names, user accounts or any other short labels. In this paper I run a simulation study showing the limitations of the existing approaches that under-perform due to a lack of standardisation and short length of text. Despite these caveats, some information, such as probability of encountering different words remains unexploited by the currently available methods. I propose an alternative approach, where the constituent tokens are weighted by their overall language frequencies. This method is applied to simulated data, as well as large number of government transparency reports from the UK. The proposed weighting method offers a more robust and scalable approach both to deduplicating the transparency reports and linking them to organisation-level covariates.
 </div>
@@ -62,9 +62,9 @@ The recent years have seen the emergence of new, more scalable ways to link info
 ##### "Path to Fake: Who Goes and How Did They Get There?"
 (with Jonathan Nagler)
 
-<p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract4"
-role="button" aria-expanded="false" aria-controls="collapseAbstract4">Abstract</a></p>
-<div class="collapse" id="collapseAbstract4">
+<p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract6"
+role="button" aria-expanded="false" aria-controls="collapseAbstract6">Abstract</a></p>
+<div class="collapse" id="collapseAbstract6">
 <div class="card card-body">
 Dubious websites advancing so called 'fake-news' have received a lot of attention, especially in the electoral context. While much of the research has been focused on their pervasiveness and prevalence in voters' media diets, we know less about the people who are prone to consume misleading information online and how they reach the websites that spread it. To answer these questions we combine a nationally representative two-wave panel collected during the 2018 United States Legislative elections with detailed information on the web-tracking activity of respondents for 2 months prior to the elections. Using the full web-browsing history we show that older respondents are more likely to visit unreliable news websites. We also find that users are more likely to go to unreliable media from Facebook, Twitter and email subscriptions than to credible sources, while search engines are more likely to lead to trustworthy news websites.
 </div>
@@ -73,9 +73,9 @@ Dubious websites advancing so called 'fake-news' have received a lot of attentio
 ##### "Emotion Shift and Transitional Justice in the Balkans"
 (with Denisa Kostovicova and Ivor Sokolic)
 
-<p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract3"
-role="button" aria-expanded="false" aria-controls="collapseAbstract3">Abstract</a></p>
-<div class="collapse" id="collapseAbstract3">
+<p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract7"
+role="button" aria-expanded="false" aria-controls="collapseAbstract7">Abstract</a></p>
+<div class="collapse" id="collapseAbstract7">
 <div class="card card-body">
 While emotions are central to recovery of post-conflict societies, we only have limited understanding of the role of emotions in transitional justice processes. Although it has been argued that post-conflict transitional justice needs to bring about a shift of negative to positive emotions to promote inter-ethnic reconciliation, we lack empirical evidence of emotion shift over time. To address this gap, we study a five-year-long multi-ethnic justice-seeking process. We focus on communication involving former adversaries, whilst drawing on theories of agonistic deliberation in divided societies, which foreground emotions and conflict in politics, and accounting for varying levels of exposure to violence. The study applies quantitative text analysis to a corpus of 1 million words of multi-lingual transcripts of transitional justice debates in the Balkans, in combination with a six-country survey of some 6,000 respondents. Instead of an emotion shift, we find that emotions remain stable over time, and identify prevalence of positive over negative emotions. At the micro level, dyads of speakers from ethnic groups involved in direct violence are more anxious, but not angrier or sadder, and more embedded in the transitional justice process. At the macro level of broader societies, we find that awareness of transitional justice debates is positively correlated with compassion. This fine-grained comparative study of emotions furthers the understanding of the affective dimension of transitional justice by providing evidence for a contentious but constructive transitional justice-seeking across ethnic lines without an emotion shift.
 </div>
