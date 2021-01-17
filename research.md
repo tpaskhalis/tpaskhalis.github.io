@@ -4,60 +4,63 @@ title: Research
 group: navigation
 ---
 
-## Working papers
+## Publications
 
-##### "Interest Group Access and Campaign Spending Limits: Evidence from Brexit"
+##### "Gender, Justice and Deliberation: Why Women Don’t Influence Peace-making", *International Studies Quarterly (Forthcoming)*
+(with Denisa Kostovicova)
+
 <p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract1"
 role="button" aria-expanded="false" aria-controls="collapseAbstract1">Abstract</a></p>
 <div class="collapse" id="collapseAbstract1">
+<div class="card card-body">
+Scholars have pinpointed that women’s underrepresentation in peace-making results in gendered outcomes that do not address women’s needs and interests. Despite recent increased representation at the negotiating table, women still have a limited influence on peace-making outcomes. We propose that differences in female and male speeches reflected in the gendered patterns in discourse during peace-making explain how women’s influence is curtailed. We examine women’s speaking behavior in transitional justice debates in the post-conflict Balkans. Applying multi-method quantitative text analysis to over half a million words in multiple languages, we analyze structural and thematic speech patterns. We find that men’s domination of turn-taking and the absence of topics reflecting women’s needs and interests lead to a gendered outcome; the sequences of men talking after men are longer than those of women talking after women, which restricts women’s deliberative space and opportunities to develop and sustain arguments that reflect their concerns. We find no evidence that women’s limited influence is driven by lower deliberative quality of their speeches. This study of gendered dynamics at the micro-level of discourse identifies a novel dimension of male domination during peace-making.
+</div>
+</div>
+
+## Working papers
+
+##### "Interest Group Access and Campaign Spending Limits: Evidence from Brexit"
+<p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract2"
+role="button" aria-expanded="false" aria-controls="collapseAbstract2">Abstract</a></p>
+<div class="collapse" id="collapseAbstract2">
 <div class="card card-body">
 Scholars have long been focussed on studying lobbying and potential influence that such activities can have on public policy. The ability to lobby state actors, however, critically depends on having access to them in the first place. So far much of the theoretical and empirical literature on potential mechanisms of acquiring access has been limited to donations or other forms of financial transactions. In this study I argue that in pluralist states with campaign spending limits, the influence of money is more restricted and other mechanisms such as economic importance, long period of state-government interactions and ideological proximity play an important role in meeting government officials. I use government transparency reports for 2010-2017 from the ministerial departments in the UK to measure the level of access and saliency of policy issues that provide evidence of the importance of these alternative mechanisms.
 </div>
 </div>
 
-##### "Gender, Justice and Deliberation: Why Women Don’t Influence Peace-making", *R&R*
-(with Denisa Kostovicova)
-
-<p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract2"
-role="button" aria-expanded="false" aria-controls="collapseAbstract2">Abstract</a></p>
-<div class="collapse" id="collapseAbstract2">
-<div class="card card-body">
-Scholars have pinpointed that women's underrepresentation in peace-making results in gendered outcomes that do not address women's needs and interests. Despite recent increased representation at the negotiating table, women still have a limited influence on peace-making outcomes. We propose that differences in female and male speeches reflected in the gendered patterns in discourse during peace-making explain how women's influence is curtailed. We examine women's speaking behavior in transitional justice debates in the post-conflict Balkans. Applying multi-method quantitative text analysis to over half a million words in multiple languages, we analyze structural and thematic speech patterns. We find that men's domination of turn-taking and the absence of topics reflecting women's needs and interests lead to a gendered outcome; the sequences of men talking after men are longer than those of women talking after women, which restricts women's deliberative space and opportunities to develop and sustain arguments that reflect their concerns. We find no evidence that women's limited influence is driven by lower deliberative quality of their speeches. This study of gendered dynamics at the micro-level of discourse identifies a novel dimension of male domination during peace-making.
-</div>
-</div>
-
-##### "Independent Media Under Pressure: Evidence from Russia", *under review*
-(with Bryn Rosenfeld and Katerina Tertytchnaya)
+##### "Parliament Strikes Back: Agenda-setting and Power Voids in Stuart England", *under review*
+(with Toni Rodon)
 
 <p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract3"
 role="button" aria-expanded="false" aria-controls="collapseAbstract3">Abstract</a></p>
 <div class="collapse" id="collapseAbstract3">
 <div class="card card-body">
-Existing literature recognizes growing threats to press freedom in electoral autocracies. However, few studies investigate how independent media respond to state pressure. We propose that outlets’ response to state pressure is shaped by their sources of revenue and editors’ incentives to pander. We test this argument with evidence from contemporary Russia. Using a corpus of 85,000 news items, we investigate how the abrupt removal of independent outlet TV Rain from television providers influenced its coverage. We find that shortly after TV Rain was disconnected from providers, the tone of its government coverage improved and its content became more similar to that of the leading state channel. Overtime, however, TV Rain became more critical. Our findings, which speak to scholarship on authoritarian endurance, highlight a tradeoff in autocrats’ use of intimidation. While attacks on free press may have short-term benefits, they could ultimately backfire.
+Previous research has sought to explain the emergence and predominance of early representative assemblies over monarchs. Yet, how parliamentarians behaved during the struggles for power remains largely unknown. We contend that parliamentary elites used periods of uncertainty to set the political agenda and show their willingness for sovereignty. We test this claim on seventeenth century England using activities reported in the Journals of the House of Commons and the House of Lords. In addition, we implement a novel strategy of measuring institutional power based on entropy of topic shares in daily records of parliamentary activity. Our results show that elites strategically used power voids to expand their attention to a wider set of topics, increase their pressure on the monarch and present themselves as rulers which were ready to govern. Our findings have important implications for our understanding of early and contemporary representative assemblies.
 </div>
 </div>
 
-##### "The Surprisingly Limited Influence of Russian Trolls in the 2016 US Election.", *under review*
-(with Gregory Eady, Jan Zilinsky, Denis Stukal, Richard Bonneau, Jonathan Nagler and Joshua Tucker)
+##### "Independent Media Under Pressure: Evidence from Russia.", *under review*
+(with Bryn Rosenfeld and Katerina Tertytchnaya)
 
 <p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract4"
 role="button" aria-expanded="false" aria-controls="collapseAbstract4">Abstract</a></p>
 <div class="collapse" id="collapseAbstract4">
 <div class="card card-body">
-There is currently widespread concern that malicious foreign actors are using social media to intervene in the elections of Western democracies to influence the attitudes and behaviors of voters. However, few high-quality data sources exist to investigate the success or failure of these foreign influence campaigns. We use a unique longitudinal survey dataset of US citizens that we linked to their Twitter feeds during the 2016 presidential election campaign to document the effects of exposure to posts from Russian Internet Research Agency (IRA) trolls on attitudes and voting behavior. We provide the first direct evidence that exposure to foreign influence campaigns on social media during the 2016 campaign was highly concentrated among an exceptionally small group of users, primarily highly partisan Republicans. A scant 1% of US users accounted for 70% of exposures to Russian troll activity. Furthermore, exposure to foreign influence campaigns was dwarfed - by more than an order of magnitude - by content from domestic political news media and politicians. Using the multi-wave structure of the survey panel data, we test whether exposure to posts from Russian trolls affected political preferences and voting behavior. Across a wide array of outcomes, we find no demonstrable effects of exposure to troll activity on changes in political attitudes, polarization, or voting behavior during the 2016 US presidential election campaign. Our findings have important implications for our understanding of the limitations of foreign influence campaigns on social media that have sought to directly intervene in the democratic elections of their adversaries.
+Existing literature recognizes growing threats to press freedom in electoral autocracies. However, few studies investigate how independent media respond to state pressure. We propose that outlets’ response to state pressure is shaped by their sources of revenue and editors’ incentives to pander. We test this argument with evidence from contemporary Russia. Using a corpus of 85,000 news items, we investigate how the abrupt removal of independent outlet TV Rain from television providers influenced its coverage. We find that shortly after TV Rain was disconnected from providers, the tone of its government coverage improved and its content became more similar to that of the leading state channel. Overtime, however, TV Rain became more critical. Our findings, which speak to scholarship on authoritarian endurance, highlight a tradeoff in autocrats’ use of intimidation. While attacks on free press may have short-term benefits, they could ultimately backfire.
 </div>
 </div>
 
-##### "Parliament Strikes Back: Agenda-setting and Power Voids in Stuart England"
-(with Toni Rodon)
+##### "The Limited Influence of Russian Trolls on Attitudes and Behaviors in the 2016 US Election.", *under review*
+(with Gregory Eady, Jan Zilinsky, Denis Stukal, Richard Bonneau, Jonathan Nagler and Joshua Tucker)
 
 <p><a class="btn btn-info" data-toggle="collapse" href="#collapseAbstract5"
 role="button" aria-expanded="false" aria-controls="collapseAbstract5">Abstract</a></p>
 <div class="collapse" id="collapseAbstract5">
 <div class="card card-body">
-Previous research has long sought to explain the emergence and predominance of early legislative assemblies with a special focus on the bargaining process between early parliaments and the monarch. Yet, we are still largely oblivious to how legislative actors behaved during these power struggles. In this article we contend that elites in early representative assemblies used periods of power uncertainty to set the political agenda and signal their desire for sovereignty over the realm. We empirically examine this mechanism on the seventeenth century England, using the activity reported in the Journals of the House of Commons and the House of Lords, two of the longest established representative assemblies in the world. To measure the power of both assemblies, we implement a novel strategy based on entropy of topic shares in daily records of parliamentary activity. Our results show that elites strategically used power voids to signal their attention to a wider set of topics, increasing their pressure to the monarch and presenting themselves as rulers that were ready to govern. Our findings have implications for our understanding of early and contemporary legislative assemblies and provide a new way of measuring institutional power through the analysis of text.
+There is currently widespread concern that malicious foreign actors are using social media to intervene in the elections of Western democracies to influence the attitudes and behaviors of voters. However, few high-quality data sources exist to investigate the success or failure of these foreign influence campaigns. We use a unique longitudinal survey dataset of US citizens that we linked to their Twitter feeds during the 2016 presidential election campaign to document the effects of exposure to posts from Russian Internet Research Agency (IRA) trolls on attitudes and voting behavior. We provide the first direct evidence that exposure to foreign influence campaigns on social media during the 2016 campaign was highly concentrated among an exceptionally small group of users, primarily highly partisan Republicans. A scant 1% of US users accounted for 70% of exposures to Russian troll activity. Furthermore, exposure to foreign influence campaigns was dwarfed - by more than an order of magnitude - by content from domestic political news media and politicians. Using the multi-wave structure of the survey panel data, we test whether exposure to posts from Russian trolls affected political preferences and voting behavior. Across a wide array of outcomes, we find no demonstrable effects of exposure to troll activity on changes in political attitudes, polarization, or voting behavior during the 2016 US presidential election campaign. Our findings have important implications for our understanding of the limitations of foreign influence campaigns on social media that have sought to directly intervene in the democratic elections of their adversaries.
 </div>
 </div>
+
 
 ## Selected work in progress
 
