@@ -13,7 +13,7 @@ I am teaching a range of [quantitative methods courses](/teaching) and espouse e
 
 Apart from academic research, I am an open source enthusiast and a member of the [rOpenSci](https://ropensci.org/) initiative. Check [Software page](/software) or my [Github profile](https://github.com/tpaskhalis/) for the list of packages I have contributed to.
 
-Prior to starting my PhD I have spent some time in data science industry. I received my BA in Political Psychology from [St Petersburg State University](http://english.spbu.ru/), [Department of Psychology](http://www.psy.spbu.ru/english-version) and my MSc in Social Research Methods from LSE. Apart from social science training, I also have a diploma in Software Engineering from [SPbU, Faculty of Mathematics and Mechanics](http://www.math.spbu.ru/eng/).
+Prior to starting my PhD I spent some time in the data science industry. I received my BA in Political Psychology from [St Petersburg State University](http://english.spbu.ru/), [Department of Psychology](http://www.psy.spbu.ru/english-version) and my MSc in Social Research Methods from LSE. Apart from social science training, I also have a diploma in Software Engineering from [SPbU, Faculty of Mathematics and Mechanics](http://www.math.spbu.ru/eng/).
 
 <a href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-envelope"></i> tom.paskhalis@nyu.edu</a>
 
