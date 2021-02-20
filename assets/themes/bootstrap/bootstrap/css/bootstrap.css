@@ -4397,10 +4397,18 @@ input[type="button"].btn-block {
   border-bottom-left-radius: 0.25rem;
 }
 
-.card-body {
+.card-body-abstract {
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
   padding: 1.25rem;
+  text-align: justify;
+}
+
+.card-body-citation {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+  white-space: pre-wrap;
 }
 
 .card-title {
