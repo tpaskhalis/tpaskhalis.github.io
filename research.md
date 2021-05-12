@@ -9,7 +9,7 @@ group: navigation
 ##### "Gender, Justice and Deliberation: Why Women Don’t Influence Peace-making", with Denisa Kostovicova, *International Studies Quarterly (2021)*
 <div class="container" id="paper_1">
 <p>
-<a class="btn btn-primary btn-sm" href="https://doi.org/10.1093/isq/sqab003" role="button">Link</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.1093/isq/sqab003" role="button">Paper</a>
 <a class="btn btn-primary btn-sm" href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/isq/PAP/10.1093_isq_sqab003/1/sqab003_online-appendix_isq.pdf?Expires=1616790371&Signature=ZQsmCTi-o-RV-CZbvaxxTaW2Q1rmpLcYnydbiS~8s5AXKG6vZOsVSXOdkC~U9kyPDFCt797Zp1X10ynN1X6OeJWv69tZMyDrulvlF8CVDmCfCTHqahjj~eqZ0i525v1Es9WIdE6Es9K~~d52ggfaNfKui4aqzv5MDDXLgUcqMlV7rOTkKLAYlRR0sj-vYO4lZIYagXwZFUwgzVmT-G3Tv57pCs~61FmcufDbzrSvnGPO8oB8zxqTJskWXSmfVLV24LQaeOoUvuznqTzJfTJtZ72jWhJSX7CtJFuI1wp5CwngMq51m~KFt-Fvs4hgGMfHW2Wiih6vPDzNvERTxlxnCA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" role="button">Supplementary</a>
 <a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract1"
 role="button" aria-expanded="false" aria-controls="collapseAbstract1">Abstract</a>
@@ -76,13 +76,28 @@ Previous research has sought to explain the emergence and predominance of early 
 (with Bryn Rosenfeld and Katerina Tertytchnaya)
 <div class="container" id="paper_4">
 <p>
+<a class="btn btn-primary btn-sm" href="/static/Independent_Media_draft.pdf" role="button">Draft</a>
 <a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract4"
 role="button" aria-expanded="false" aria-controls="collapseAbstract4">Abstract</a>
+<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseCitation4"
+role="button" aria-expanded="false" aria-controls="collapseCitation4">Citation</a>
 </p>
 
 <div class="collapse" id="collapseAbstract4" data-parent="#paper_4">
 <div class="card card-body-abstract">
-Existing literature recognizes growing threats to press freedom in electoral autocracies. However, few studies investigate how independent media respond to state pressure. We propose that outlets’ response to state pressure is shaped by their sources of revenue and editors’ incentives to pander. We test this argument with evidence from contemporary Russia. Using a corpus of 85,000 news items, we investigate how the abrupt removal of independent outlet TV Rain from television providers influenced its coverage. We find that shortly after TV Rain was disconnected from providers, the tone of its government coverage improved and its content became more similar to that of the leading state channel. Overtime, however, TV Rain became more critical. Our findings, which speak to scholarship on authoritarian endurance, highlight a tradeoff in autocrats’ use of intimidation. While attacks on free press may have short-term benefits, they could ultimately backfire.
+Existing literature recognizes growing threats to press freedom around the world and documents changes in the tools used to stifle independent press. However, few studies investigate how independent media respond to state pressure. Do independent outlets comply, orienting coverage to favor regime interests? Or does repression encourage more negative coverage of the regime instead? To shed light on these questions, we investigate how the abrupt removal of independent outlet TV Rain from Russian television providers influenced its coverage. We find that shortly after TV Rain was dropped by providers, the tone of its political coverage became more positive and its similarity with state-controlled television increased. However, these effects were short-lived. Additional evidence suggests that subscription revenue contributed to the station's resilience. These findings, from the first causal test of how attacks influence independent media coverage in a nondemocracy, add to our understanding of media manipulation and authoritarian endurance.
+</div>
+</div>
+
+<div class="collapse" id="collapseCitation4" data-parent="#paper_4">
+<div class="card card-body-citation">
+@article{PaskhalisRosenfeldTertytchnaya,
+    author = {Paskhalis, Tom and Rosenfeld, Bryn and Tertytchnaya, Katerina},
+    title = "{Independent Media Under Pressure: Evidence from Russia}",
+    journal = {Working Paper},
+    year = {2021},
+    url = {https://tom.paskhal.is/static/Independent_Media_draft.pdf},
+}
 </div>
 </div>
 </div>
