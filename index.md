@@ -5,9 +5,9 @@ group: index
 ---
 {% include JB/setup %}
 
-I am a postdoctoral fellow at [New York University](https://www.nyu.edu/), [Center for Social Media and Politics](https://csmapnyu.org). I received my PhD from [London School of Economics and Political Science](http://www.lse.ac.uk), [Department of Methodology](http://www.lse.ac.uk/methodology/).
+I am a Postdoctoral Fellow at [New York University](https://www.nyu.edu/), [Center for Social Media and Politics](https://csmapnyu.org). In autumn 2021 I will be joining [Trinity College Dublin](https://www.tcd.ie), [Department of Political Science](https://www.tcd.ie/Political_Science/) as an Assistant Professor in Political Science and Data Science.
 
-My methodological research interests include text analysis, machine learning, record linkage and data visualisation. Substantively, I'm interested in comparative and British politics, political communication, lobbying and social media. In my current research I analyse how organisations get access to government and what other strategies they employ to affect policy.
+I received my PhD from [London School of Economics and Political Science](http://www.lse.ac.uk), [Department of Methodology](http://www.lse.ac.uk/methodology/). My methodological research interests include text analysis, machine learning, record linkage and data visualisation. Substantively, I'm interested in comparative and British politics, political communication, lobbying and social media. In my current research I analyse how organisations get access to government and what other strategies they employ to affect policy.
 
 I am teaching a range of [quantitative methods courses](/teaching) and espouse experiential learning pedagogy for training in empirical political science research and data analysis.
 
