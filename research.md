@@ -6,11 +6,11 @@ group: navigation
 
 ## Publications
 
-##### "Gender, Justice and Deliberation: Why Women Don’t Influence Peace-making", with Denisa Kostovicova, *International Studies Quarterly (2021)*
+##### "Gender, Justice and Deliberation: Why Women Don’t Influence Peace-making", with Denisa Kostovicova, *International Studies Quarterly*, 2021, 65 (2), 263-276
 <div class="container" id="paper_1">
 <p>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1093/isq/sqab003" role="button">Paper</a>
-<a class="btn btn-primary btn-sm" href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/isq/PAP/10.1093_isq_sqab003/1/sqab003_online-appendix_isq.pdf?Expires=1616790371&Signature=ZQsmCTi-o-RV-CZbvaxxTaW2Q1rmpLcYnydbiS~8s5AXKG6vZOsVSXOdkC~U9kyPDFCt797Zp1X10ynN1X6OeJWv69tZMyDrulvlF8CVDmCfCTHqahjj~eqZ0i525v1Es9WIdE6Es9K~~d52ggfaNfKui4aqzv5MDDXLgUcqMlV7rOTkKLAYlRR0sj-vYO4lZIYagXwZFUwgzVmT-G3Tv57pCs~61FmcufDbzrSvnGPO8oB8zxqTJskWXSmfVLV24LQaeOoUvuznqTzJfTJtZ72jWhJSX7CtJFuI1wp5CwngMq51m~KFt-Fvs4hgGMfHW2Wiih6vPDzNvERTxlxnCA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" role="button">Supplementary</a>
+<a class="btn btn-primary btn-sm" href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/isq/65/2/10.1093_isq_sqab003/1/sqab003_online-appendix_isq.pdf?Expires=1626137156&Signature=ADzc1IokHhCb1sjisusQ2eiT3OWcCZ0TFCzb8WXB6jQxxs8Mko3pgq1PhiF3whN8yyBwCbD6jsK3vpYqQwKR6ze~uoU2qKqxndrMM8yCOnJTbB26Uv32w7tK2suVAZLK~0FUIwOWps0qeEEJ~F0TRc1aq65kNCHkbMKBQ4vhdhx16m1bg4vEsTZsThPRc3dRXt-Y~EJO3LOmjMk5OqZrkMvrO06dvtSoxTP6geUksQjDrFfZNR~0gVUJrgWthjYF~dcySxBbsRcETnBn2SaNlbzbtRnvQ1m1Z5e7xHCxS3wrbo-BRTEbQ7WpioCLdxAFvZ4n~KYz9LUMtEQhhwS01w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" role="button">Supplementary</a>
 <a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract1"
 role="button" aria-expanded="false" aria-controls="collapseAbstract1">Abstract</a>
 <a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseCitation1"
@@ -25,17 +25,18 @@ Scholars have pinpointed that women's underrepresentation in peacemaking results
 
 <div class="collapse" id="collapseCitation1" data-parent="#paper_1">
 <div class="card card-body-citation">
-@article{10.1093/isq/sqab003,
+@article{KostovicovaPaskhalis2021,
     author = {Kostovicova, Denisa and Paskhalis, Tom},
     title = "{Gender, Justice and Deliberation: Why Women Don't Influence Peacemaking}",
     journal = {International Studies Quarterly},
+    volume = {65},
+    number = {2},
+    pages = {263-276},
     year = {2021},
-    month = {02},
     issn = {0020-8833},
     doi = {10.1093/isq/sqab003},
     url = {https://doi.org/10.1093/isq/sqab003},
-    note = {sqab003},
-    eprint = {https://academic.oup.com/isq/advance-article-pdf/doi/10.1093/isq/sqab003/36287885/sqab003.pdf},
+    eprint = {https://academic.oup.com/isq/article-pdf/65/2/263/37955727/sqab003.pdf},
 }
 </div>
 </div>
