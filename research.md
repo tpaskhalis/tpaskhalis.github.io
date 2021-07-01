@@ -4,9 +4,10 @@ title: Research
 group: navigation
 ---
 
-## Publications
+#### Publications
 
-##### "Gender, Justice and Deliberation: Why Women Don’t Influence Peace-making", with Denisa Kostovicova, *International Studies Quarterly*, 2021, 65 (2), 263-276
+"Gender, Justice and Deliberation: Why Women Don’t Influence Peace-making"  
+with Denisa Kostovicova, *International Studies Quarterly*, 2021, 65 (2), 263-276
 <div class="container" id="paper_1">
 <p>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1093/isq/sqab003" role="button">Paper</a>
@@ -42,46 +43,19 @@ Scholars have pinpointed that women's underrepresentation in peacemaking results
 </div>
 </div>
 
-## Working papers
+#### Working papers
 
-##### "Interest Group Access and Campaign Spending Limits: Evidence from Brexit"
-<div class="container" id="paper_2">
-<p>
-<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract2"
-role="button" aria-expanded="false" aria-controls="collapseAbstract2">Abstract</a>
-</p>
-
-<div class="collapse" id="collapseAbstract2" data-parent="#paper_2">
-<div class="card card-body-abstract">
-Scholars have long been focussed on studying lobbying and potential influence that such activities can have on public policy. The ability to lobby state actors, however, critically depends on having access to them in the first place. So far much of the theoretical and empirical literature on potential mechanisms of acquiring access has been limited to donations or other forms of financial transactions. In this study I argue that in pluralist states with campaign spending limits, the influence of money is more restricted and other mechanisms such as economic importance, long period of state-government interactions and ideological proximity play an important role in meeting government officials. I use government transparency reports for 2010-2017 from the ministerial departments in the UK to measure the level of access and saliency of policy issues that provide evidence of the importance of these alternative mechanisms.
-</div>
-</div>
-</div>
-
-##### "Parliament Strikes Back: Agenda-setting and Power Voids in Early Representative Assemblies", *under review*
-(with Toni Rodon)
-<div class="container" id="paper_3">
-<p>
-<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract3"
-role="button" aria-expanded="false" aria-controls="collapseAbstract3">Abstract</a>
-</p>
-
-<div class="collapse" id="collapseAbstract3" data-parent="#paper_3">
-<div class="card card-body-abstract">
-Previous research has sought to explain the emergence and predominance of early representative assemblies over monarchs. Yet, how parliamentarians behaved during the struggles for power remains largely unknown. We contend that parliamentary elites used periods of uncertainty to set the political agenda and show their strive for sovereignty. We test this claim on seventeenth century England using activities reported in the Journals of the House of Commons and the House of Lords. In addition, we implement a novel strategy of measuring institutional power based on entropy of topic shares in daily records of parliamentary activity. Our results show that elites strategically used power voids to expand their attention to a wider set of topics, increase their pressure on the monarch and present themselves as rulers which were ready to govern. Our findings have important implications for our understanding of early and contemporary representative assemblies.
-</div>
-</div>
-</div>
-
-##### "Independent Media Under Pressure: Evidence from Russia.", *under review*
+"Independent Media Under Pressure: Evidence from Russia.", *under review*  
 (with Bryn Rosenfeld and Katerina Tertytchnaya)
 <div class="container" id="paper_4">
 <p>
-<a class="btn btn-primary btn-sm" href="/static/Independent_Media_draft.pdf" role="button">Draft</a>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.31219/osf.io/pz68w" role="button">Preprint</a>
 <a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract4"
 role="button" aria-expanded="false" aria-controls="collapseAbstract4">Abstract</a>
 <a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseCitation4"
 role="button" aria-expanded="false" aria-controls="collapseCitation4">Citation</a>
+<a class="btn btn-light btn-sm" data-toggle="collapse" href="#collapseMedia4"
+role="button" aria-expanded="false" aria-controls="collapseMedia4">Media</a>
 </p>
 
 <div class="collapse" id="collapseAbstract4" data-parent="#paper_4">
@@ -97,13 +71,20 @@ Existing literature recognizes growing threats to press freedom around the world
     title = "{Independent Media Under Pressure: Evidence from Russia}",
     journal = {Working Paper},
     year = {2021},
-    url = {https://tom.paskhal.is/static/Independent_Media_draft.pdf},
+    doi = {10.31219/osf.io/pz68w},
+    url = {https://doi.org/10.31219/osf.io/pz68w},
 }
+</div>
+</div>
+
+<div class="collapse" id="collapseMedia4" data-parent="#paper_4">
+<div class="card card-body-media">
+<a href = "https://www.washingtonpost.com/politics/2021/06/29/kremlin-has-new-toolkit-shutting-down-independent-news-media/">Monkey Cage</a>
 </div>
 </div>
 </div>
 
-##### "The Limited Impact of Russia's Election Interference on Twitter in the 2016 US Election.", *under review*
+"The Limited Impact of Russia's Election Interference on Twitter in the 2016 US Election.", *under review*  
 (with Gregory Eady, Jan Zilinsky, Denis Stukal, Richard Bonneau, Jonathan Nagler and Joshua Tucker)
 <div class="container" id="paper_5">
 <p>
@@ -118,23 +99,37 @@ There is currently widespread concern that malicious foreign actors are using so
 </div>
 </div>
 
-## Selected work in progress
-
-##### "Record Linkage with Text: Merging Data Sets When Information is Limited"
-<div class="container" id="paper_6">
+"Emotion Shift and Transitional Justice in the Balkans", *under review*  
+(with Denisa Kostovicova and Ivor Sokolic)
+<div class="container" id="paper_8">
 <p>
-<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract6"
-role="button" aria-expanded="false" aria-controls="collapseAbstract6">Abstract</a>
+<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract8"
+role="button" aria-expanded="false" aria-controls="collapseAbstract8">Abstract</a>
 </p>
 
-<div class="collapse" id="collapseAbstract6" data-parent="#paper_6">
+<div class="collapse" id="collapseAbstract8" data-parent="#paper_8">
 <div class="card card-body-abstract">
-The recent years have seen the emergence of new, more scalable ways to link information about different entities across multiple data sources. However, merging data sets when the number of variables used for record linkage is restricted remains challenging. In this paper I consider the case when the information is limited to a single multi-token text string. This situation often occurs when researchers work with organization names, user accounts or any other short labels. Using Lobbying Disclosure Act data I illustrate substantive implications that the choice of record linkage approach can have in empirical research. I review the existing approaches and consider three types of noise that can typically be encountered in this scenario: character-level, word-level or a combination of both. Furthermore, I conduct a simulation study showing the sensitivity of the existing approaches to the presence of errors occurring at different levels. The results suggest that the optimal choice of a record linkage approach depends on contextual knowledge about the most likely type of noise, as well as stress the need to conduct sensitivity analysis using different record linkage approaches.
+While emotions are central to recovery of post-conflict societies, we only have limited understanding of the role of emotions in transitional justice processes. Although it has been argued that post-conflict transitional justice needs to bring about a shift of negative to positive emotions to promote inter-ethnic reconciliation, we lack empirical evidence of emotion shift over time. To address this gap, we study a five-year-long multi-ethnic justice-seeking process. We focus on communication involving former adversaries, whilst drawing on theories of agonistic deliberation in divided societies, which foreground emotions and conflict in politics, and accounting for varying levels of exposure to violence. The study applies quantitative text analysis to a corpus of 1 million words of multi-lingual transcripts of transitional justice debates in the Balkans, in combination with a six-country survey of some 6,000 respondents. Instead of an emotion shift, we find that emotions remain stable over time, and identify prevalence of positive over negative emotions. At the micro level, dyads of speakers from ethnic groups involved in direct violence are more anxious, but not angrier or sadder, and more embedded in the transitional justice process. At the macro level of broader societies, we find that awareness of transitional justice debates is positively correlated with compassion. This fine-grained comparative study of emotions furthers the understanding of the affective dimension of transitional justice by providing evidence for a contentious but constructive transitional justice-seeking across ethnic lines without an emotion shift.
 </div>
 </div>
 </div>
 
-##### "Path to Fake: Who Goes and How Did They Get There?"
+"Parliament Strikes Back: Agenda-setting and Power Voids in Early Representative Assemblies"  
+(with Toni Rodon)
+<div class="container" id="paper_3">
+<p>
+<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract3"
+role="button" aria-expanded="false" aria-controls="collapseAbstract3">Abstract</a>
+</p>
+
+<div class="collapse" id="collapseAbstract3" data-parent="#paper_3">
+<div class="card card-body-abstract">
+Previous research has sought to explain the emergence and predominance of early representative assemblies over monarchs. Yet, how parliamentarians behaved during the struggles for power remains largely unknown. We contend that parliamentary elites used periods of uncertainty to set the political agenda and show their strive for sovereignty. We test this claim on seventeenth century England using activities reported in the Journals of the House of Commons and the House of Lords. In addition, we implement a novel strategy of measuring institutional power based on entropy of topic shares in daily records of parliamentary activity. Our results show that elites strategically used power voids to expand their attention to a wider set of topics, increase their pressure on the monarch and present themselves as rulers which were ready to govern. Our findings have important implications for our understanding of early and contemporary representative assemblies.
+</div>
+</div>
+</div>
+
+"Path to Fake: Who Goes and How Did They Get There?"  
 (with Richard Bonneau, Joshua Tucker and Jonathan Nagler)
 <div class="container" id="paper_7">
 <p>
@@ -149,17 +144,48 @@ Dubious websites advancing so called 'fake-news' have received a lot of attentio
 </div>
 </div>
 
-##### "Emotion Shift and Transitional Justice in the Balkans"
-(with Denisa Kostovicova and Ivor Sokolic)
-<div class="container" id="paper_8">
+
+#### Selected work in progress
+
+"Interest Group Access and Campaign Spending Limits: Evidence from Brexit"
+<div class="container" id="paper_2">
 <p>
-<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract8"
-role="button" aria-expanded="false" aria-controls="collapseAbstract8">Abstract</a>
+<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract2"
+role="button" aria-expanded="false" aria-controls="collapseAbstract2">Abstract</a>
 </p>
 
-<div class="collapse" id="collapseAbstract8" data-parent="#paper_8">
+<div class="collapse" id="collapseAbstract2" data-parent="#paper_2">
 <div class="card card-body-abstract">
-While emotions are central to recovery of post-conflict societies, we only have limited understanding of the role of emotions in transitional justice processes. Although it has been argued that post-conflict transitional justice needs to bring about a shift of negative to positive emotions to promote inter-ethnic reconciliation, we lack empirical evidence of emotion shift over time. To address this gap, we study a five-year-long multi-ethnic justice-seeking process. We focus on communication involving former adversaries, whilst drawing on theories of agonistic deliberation in divided societies, which foreground emotions and conflict in politics, and accounting for varying levels of exposure to violence. The study applies quantitative text analysis to a corpus of 1 million words of multi-lingual transcripts of transitional justice debates in the Balkans, in combination with a six-country survey of some 6,000 respondents. Instead of an emotion shift, we find that emotions remain stable over time, and identify prevalence of positive over negative emotions. At the micro level, dyads of speakers from ethnic groups involved in direct violence are more anxious, but not angrier or sadder, and more embedded in the transitional justice process. At the macro level of broader societies, we find that awareness of transitional justice debates is positively correlated with compassion. This fine-grained comparative study of emotions furthers the understanding of the affective dimension of transitional justice by providing evidence for a contentious but constructive transitional justice-seeking across ethnic lines without an emotion shift.
+Scholars have long been focussed on studying lobbying and potential influence that such activities can have on public policy. The ability to lobby state actors, however, critically depends on having access to them in the first place. So far much of the theoretical and empirical literature on potential mechanisms of acquiring access has been limited to donations or other forms of financial transactions. In this study I argue that in pluralist states with campaign spending limits, the influence of money is more restricted and other mechanisms such as economic importance, long period of state-government interactions and ideological proximity play an important role in meeting government officials. I use government transparency reports for 2010-2017 from the ministerial departments in the UK to measure the level of access and saliency of policy issues that provide evidence of the importance of these alternative mechanisms.
+</div>
+</div>
+</div>
+
+"Record Linkage with Text: Merging Data Sets When Information is Limited"
+<div class="container" id="paper_6">
+<p>
+<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract6"
+role="button" aria-expanded="false" aria-controls="collapseAbstract6">Abstract</a>
+</p>
+
+<div class="collapse" id="collapseAbstract6" data-parent="#paper_6">
+<div class="card card-body-abstract">
+The recent years have seen the emergence of new, more scalable ways to link information about different entities across multiple data sources. However, merging data sets when the number of variables used for record linkage is restricted remains challenging. In this paper I consider the case when the information is limited to a single multi-token text string. This situation often occurs when researchers work with organization names, user accounts or any other short labels. Using Lobbying Disclosure Act data I illustrate substantive implications that the choice of record linkage approach can have in empirical research. I review the existing approaches and consider three types of noise that can typically be encountered in this scenario: character-level, word-level or a combination of both. Furthermore, I conduct a simulation study showing the sensitivity of the existing approaches to the presence of errors occurring at different levels. The results suggest that the optimal choice of a record linkage approach depends on contextual knowledge about the most likely type of noise, as well as stress the need to conduct sensitivity analysis using different record linkage approaches.
+</div>
+</div>
+</div>
+
+"Learning Media Quality from Facebook Data"  
+(with Kevin Aslett, Cody Buntain, Zhanna Terechshenko, Joshua Tucker, Jonathan Nagler and Richard Bonneau)
+<div class="container" id="paper_9">
+<p>
+<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract9"
+role="button" aria-expanded="false" aria-controls="collapseAbstract9">Abstract</a>
+</p>
+
+<div class="collapse" id="collapseAbstract9" data-parent="#paper_9">
+<div class="card card-body-abstract">
+The production, consumption, and dissemination of online news is of growing interest among scholars studying democracy, but siginificant challenges remains for the study of media quality in a comparative perspective, including varying political environments, language barriers, cultural contexts, and differing media regulation. To address these concerns, we leverage a novel comparative data set of links shared on Facebook, made accessible to the research community through the Social Science One research iniative, to study the prevalence of unreliable online news in 27 countries in Europe. We use a supervised model (trained on US data) to predict the credibility of a given news domain based on users’ feedback and behavior. We show that interactions with links to news websites on social media allow us to predict the credibility of news and that a model that learns such relationships is portable across national contexts. Using this model we find an East-West divide between countries in Europe with higher proportion of unreliable news in former socialist countries, as well as in the UK. Furthermore, we find that more recently registered news domains and those registered outside of the country are more likely to be predicted to be the sources of unreliable information.
 </div>
 </div>
 </div>
