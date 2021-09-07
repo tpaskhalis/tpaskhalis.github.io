@@ -13,7 +13,7 @@ Apart from academic research, I am an open source enthusiast and a member of the
 
 I received my BA in Political Psychology from [St Petersburg State University](http://english.spbu.ru/), [Department of Psychology](http://www.psy.spbu.ru/english-version) and my MSc in Social Research Methods from LSE. Apart from social science training, I also have a diploma in Software Engineering from [SPbU, Faculty of Mathematics and Mechanics](http://www.math.spbu.ru/eng/).
 
-<a href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-envelope"></i> paskhalt@tcd.ie</a>
+<a href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-envelope"></i> tom.paskhalis@tcd.ie</a>
 
 <a href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i> Twitter</a>
 
