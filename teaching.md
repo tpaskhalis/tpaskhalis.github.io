@@ -12,8 +12,8 @@ This term (Michaelmas Term, 2021/22)
 - [Computer Programming for Social Scientists (POP7701)](https://tcd.blackboard.com/webapps/blackboard/execute/courseMain?course_id=_75212_1)  
 Trinity College Dublin, 2021
   <p>
-  <a class="btn btn-primary btn-sm" role="button" href="https://raw.githubusercontent.com/ASDS-TCD/CompProgramming_Fall2021/main/syllabus/Computer_Programming_for_Social_Scientists_TCD_2021.pdf">Syllabus</a>
-  <a class="btn btn-info btn-sm" role="button" href="https://asds-tcd.github.io/CompProgramming_Fall2021/">Course Website</a>
+  <a class="btn btn-primary btn-sm" role="button" href="https://github.com/ASDS-TCD/POP77001_Computer_Programming_2021/blob/main/syllabus/POP77001_Computer_Programming_for_Social_Scientists.pdf">Syllabus</a>
+  <a class="btn btn-info btn-sm" role="button" href="https://asds-tcd.github.io/POP77001_Computer_Programming_2021/">Course Website</a>
   </p>
 
 Teaching Assistant:
