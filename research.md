@@ -45,6 +45,21 @@ Scholars have pinpointed that women's underrepresentation in peacemaking results
 
 #### Working papers
 
+"The Limited Impact of Russia's Election Interference on Twitter in the 2016 US Election.", *R&R*  
+(with Gregory Eady, Jan Zilinsky, Denis Stukal, Richard Bonneau, Jonathan Nagler and Joshua Tucker)
+<div class="container" id="paper_5">
+<p>
+<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract5"
+role="button" aria-expanded="false" aria-controls="collapseAbstract5">Abstract</a>
+</p>
+
+<div class="collapse" id="collapseAbstract5" data-parent="#paper_5">
+<div class="card card-body-abstract">
+There is currently widespread concern that malicious foreign actors are using social media to interfere in the elections of Western democracies. However, few high-quality data sources exist to investigate the effects of these foreign influence campaigns. We use a unique longitudinal survey of US citizens linked to their Twitter feeds to quantify the effects of exposure to posts from Russian Internet Research Agency (IRA) trolls on attitudes and voting behavior during the 2016 US presidential election. We provide the first direct evidence that exposure to foreign influence campaigns on social media was highly concentrated among an exceptionally small group of users, primarily highly partisan Republicans. A scant 1% of US users accounted for 70% of exposures to Russian troll activity. Furthermore, exposure to foreign influence campaigns was dwarfed by content from domestic news media and politicians. Finally, we test whether exposure to posts from Russian trolls affected political preferences and voting behavior. Across a wide array of outcomes, we find no demonstrable effects of exposure to content from Russian trolls on changes in attitudes, polarization, or voting behavior. Our findings have important implications for our understanding of the limitations of foreign influence campaigns on social media.
+</div>
+</div>
+</div>
+
 "Independent Media Under Pressure: Evidence from Russia.", *under review*  
 (with Bryn Rosenfeld and Katerina Tertytchnaya)
 <div class="container" id="paper_4">
@@ -84,42 +99,15 @@ Existing literature recognizes growing threats to press freedom around the world
 </div>
 </div>
 
-"The Limited Impact of Russia's Election Interference on Twitter in the 2016 US Election.", *under review*  
-(with Gregory Eady, Jan Zilinsky, Denis Stukal, Richard Bonneau, Jonathan Nagler and Joshua Tucker)
-<div class="container" id="paper_5">
-<p>
-<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract5"
-role="button" aria-expanded="false" aria-controls="collapseAbstract5">Abstract</a>
-</p>
-
-<div class="collapse" id="collapseAbstract5" data-parent="#paper_5">
-<div class="card card-body-abstract">
-There is currently widespread concern that malicious foreign actors are using social media to interfere in the elections of Western democracies. However, few high-quality data sources exist to investigate the effects of these foreign influence campaigns. We use a unique longitudinal survey of US citizens linked to their Twitter feeds to quantify the effects of exposure to posts from Russian Internet Research Agency (IRA) trolls on attitudes and voting behavior during the 2016 US presidential election. We provide the first direct evidence that exposure to foreign influence campaigns on social media was highly concentrated among an exceptionally small group of users, primarily highly partisan Republicans. A scant 1% of US users accounted for 70% of exposures to Russian troll activity. Furthermore, exposure to foreign influence campaigns was dwarfed by content from domestic news media and politicians. Finally, we test whether exposure to posts from Russian trolls affected political preferences and voting behavior. Across a wide array of outcomes, we find no demonstrable effects of exposure to content from Russian trolls on changes in attitudes, polarization, or voting behavior. Our findings have important implications for our understanding of the limitations of foreign influence campaigns on social media.
-</div>
-</div>
-</div>
-
-"Emotion Shift and Transitional Justice in the Balkans", *under review*  
-(with Denisa Kostovicova and Ivor Sokolic)
-<div class="container" id="paper_8">
-<p>
-<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract8"
-role="button" aria-expanded="false" aria-controls="collapseAbstract8">Abstract</a>
-</p>
-
-<div class="collapse" id="collapseAbstract8" data-parent="#paper_8">
-<div class="card card-body-abstract">
-While emotions are central to recovery of post-conflict societies, we only have limited understanding of the role of emotions in transitional justice processes. Although it has been argued that post-conflict transitional justice needs to bring about a shift of negative to positive emotions to promote inter-ethnic reconciliation, we lack empirical evidence of emotion shift over time. To address this gap, we study a five-year-long multi-ethnic justice-seeking process. We focus on communication involving former adversaries, whilst drawing on theories of agonistic deliberation in divided societies, which foreground emotions and conflict in politics, and accounting for varying levels of exposure to violence. The study applies quantitative text analysis to a corpus of 1 million words of multi-lingual transcripts of transitional justice debates in the Balkans, in combination with a six-country survey of some 6,000 respondents. Instead of an emotion shift, we find that emotions remain stable over time, and identify prevalence of positive over negative emotions. At the micro level, dyads of speakers from ethnic groups involved in direct violence are more anxious, but not angrier or sadder, and more embedded in the transitional justice process. At the macro level of broader societies, we find that awareness of transitional justice debates is positively correlated with compassion. This fine-grained comparative study of emotions furthers the understanding of the affective dimension of transitional justice by providing evidence for a contentious but constructive transitional justice-seeking across ethnic lines without an emotion shift.
-</div>
-</div>
-</div>
-
-"Parliament Strikes Back: Agenda-setting and Power Voids in Early Representative Assemblies"  
+"Parliament Strikes Back: Agenda-setting and Power Voids in Early Representative Assemblies", *under review*  
 (with Toni Rodon)
 <div class="container" id="paper_3">
 <p>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.31219/osf.io/qgu9c" role="button">Preprint</a>
 <a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract3"
 role="button" aria-expanded="false" aria-controls="collapseAbstract3">Abstract</a>
+<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseCitation3"
+role="button" aria-expanded="false" aria-controls="collapseCitation3">Citation</a>
 </p>
 
 <div class="collapse" id="collapseAbstract3" data-parent="#paper_3">
@@ -127,9 +115,22 @@ role="button" aria-expanded="false" aria-controls="collapseAbstract3">Abstract</
 Previous research has sought to explain the emergence and predominance of early representative assemblies over monarchs. Yet, how parliamentarians behaved during the struggles for power remains largely unknown. We contend that parliamentary elites used periods of uncertainty to set the political agenda and show their strive for sovereignty. We test this claim on seventeenth century England using activities reported in the Journals of the House of Commons and the House of Lords. In addition, we implement a novel strategy of measuring institutional power based on entropy of topic shares in daily records of parliamentary activity. Our results show that elites strategically used power voids to expand their attention to a wider set of topics, increase their pressure on the monarch and present themselves as rulers which were ready to govern. Our findings have important implications for our understanding of early and contemporary representative assemblies.
 </div>
 </div>
+
+<div class="collapse" id="collapseCitation3" data-parent="#paper_3">
+<div class="card card-body-citation">
+@article{RodonPaskhalis,
+    author = {Rodon, Toni and Paskhalis, Tom},
+    title = "{Parliament Strikes Back: Agenda-setting and Power Voids in Early Representative Assemblies}",
+    journal = {Working Paper},
+    year = {2021},
+    doi = {10.31219/osf.io/qgu9c},
+    url = {https://doi.org/10.31219/osf.io/qgu9c},
+}
+</div>
+</div>
 </div>
 
-"Path to Fake: Who Goes and How Did They Get There?"  
+"Path to Fake: Who Goes and How Did They Get There?", *under review*   
 (with Richard Bonneau, Joshua Tucker and Jonathan Nagler)
 <div class="container" id="paper_7">
 <p>
@@ -140,6 +141,21 @@ role="button" aria-expanded="false" aria-controls="collapseAbstract7">Abstract</
 <div class="collapse" id="collapseAbstract7" data-parent="#paper_7">
 <div class="card card-body-abstract">
 Dubious websites advancing so called 'fake-news' have received a lot of attention, especially during polarized electoral campaigns. While much of the research has been focused on their pervasiveness and prevalence in voters' media diets, we know less about the people who are prone to consume misleading information online and more importantly how they reach the websites that spread it. To answer these questions we analyze a nationally representative panel collected during the 2018 US midterm election containing detailed information on the web browsing activity of respondents for 2 months during the electoral campaign. We find that, on average, unreliable news constitute about 5% of respondents' online media diet and that older and more conservative respondents are more likely to visit unreliable news websites. While social media platforms form a more prominent source of transitions to untrustworthy than credible websites, unreliable news appear to form a routine, organic part of online news diet for most prominent consumers of 'fake-news'.
+</div>
+</div>
+</div>
+
+"Emotion Shift and Transitional Justice in the Balkans",  
+(with Denisa Kostovicova and Ivor Sokolic)
+<div class="container" id="paper_8">
+<p>
+<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract8"
+role="button" aria-expanded="false" aria-controls="collapseAbstract8">Abstract</a>
+</p>
+
+<div class="collapse" id="collapseAbstract8" data-parent="#paper_8">
+<div class="card card-body-abstract">
+While emotions are central to recovery of post-conflict societies, we only have limited understanding of the role of emotions in transitional justice processes. Although it has been argued that post-conflict transitional justice needs to bring about a shift of negative to positive emotions to promote inter-ethnic reconciliation, we lack empirical evidence of emotion shift over time. To address this gap, we study a five-year-long multi-ethnic justice-seeking process. We focus on communication involving former adversaries, whilst drawing on theories of agonistic deliberation in divided societies, which foreground emotions and conflict in politics, and accounting for varying levels of exposure to violence. The study applies quantitative text analysis to a corpus of 1 million words of multi-lingual transcripts of transitional justice debates in the Balkans, in combination with a six-country survey of some 6,000 respondents. Instead of an emotion shift, we find that emotions remain stable over time, and identify prevalence of positive over negative emotions. At the micro level, dyads of speakers from ethnic groups involved in direct violence are more anxious, but not angrier or sadder, and more embedded in the transitional justice process. At the macro level of broader societies, we find that awareness of transitional justice debates is positively correlated with compassion. This fine-grained comparative study of emotions furthers the understanding of the affective dimension of transitional justice by providing evidence for a contentious but constructive transitional justice-seeking across ethnic lines without an emotion shift.
 </div>
 </div>
 </div>
