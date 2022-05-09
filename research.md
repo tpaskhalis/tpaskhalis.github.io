@@ -6,12 +6,56 @@ group: navigation
 
 #### Publications
 
-"Gender, Justice and Deliberation: Why Women Don’t Influence Peace-making"  
+"Independent Media Under Pressure: Evidence from Russia."
+with Bryn Rosenfeld and Katerina Tertytchnaya, *Post-Soviet Affairs*, 2022, First View
+<div class="container" id="paper_4">
+<p>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.1080/1060586X.2022.2065840" role="button">Paper</a>
+<a class="btn btn-primary btn-sm" href="https://www.tandfonline.com/doi/suppl/10.1080/1060586X.2022.2065840/suppl_file/rpsa_a_2065840_sm7985.pdf" role="button">Supplementary</a>
+<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract4"
+role="button" aria-expanded="false" aria-controls="collapseAbstract4">Abstract</a>
+<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseCitation4"
+role="button" aria-expanded="false" aria-controls="collapseCitation4">Citation</a>
+<a class="btn btn-light btn-sm" data-toggle="collapse" href="#collapseMedia4"
+role="button" aria-expanded="false" aria-controls="collapseMedia4">Media</a>
+</p>
+
+<div class="collapse" id="collapseAbstract4" data-parent="#paper_4">
+<div class="card card-body-abstract">
+Existing literature recognizes growing threats to press freedom around the world and documents changes in the tools used to stifle the independent press. However, few studies investigate how independent media respond to state pressure in an autocracy, documenting the impact of tactics that stop short of shuttering alternatives to state media. Do independent outlets re-orient coverage to favor regime interests? Or does repression encourage more negative coverage of the regime instead? To shed light on these questions, we investigate how the abrupt removal of independent outlet TV Rain from Russian television providers influenced its coverage. We find that shortly after providers dropped TV Rain, the tone of its political coverage became more positive and its similarity with state-controlled Channel 1 increased. However, these effects were short-lived. Additional evidence suggests that subscription revenue contributed to the station’s resilience. These findings add to our understanding of media manipulation and authoritarian endurance.
+</div>
+</div>
+
+<div class="collapse" id="collapseCitation4" data-parent="#paper_4">
+<div class="card card-body-citation">
+@article{doi:10.1080/1060586X.2022.2065840,
+    author = {Paskhalis, Tom and Rosenfeld, Bryn and Tertytchnaya, Katerina},
+    title = "{Independent Media Under Pressure: Evidence from Russia}",
+    journal = {Post-Soviet Affairs},
+    volume = {0},
+    number = {0},
+    pages = {1--20},
+    year  = {2022},
+    publisher = {Routledge},
+    doi = {10.1080/1060586X.2022.2065840},
+    url = {https://doi.org/10.1080/1060586X.2022.2065840},
+}
+</div>
+</div>
+
+<div class="collapse" id="collapseMedia4" data-parent="#paper_4">
+<div class="card card-body-media">
+<a href = "https://www.washingtonpost.com/politics/2021/06/29/kremlin-has-new-toolkit-shutting-down-independent-news-media/">Monkey Cage</a>
+</div>
+</div>
+</div>
+
+"Gender, Justice and Deliberation: Why Women Don’t Influence Peace-making."  
 with Denisa Kostovicova, *International Studies Quarterly*, 2021, 65 (2), 263-276
 <div class="container" id="paper_1">
 <p>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1093/isq/sqab003" role="button">Paper</a>
-<a class="btn btn-primary btn-sm" href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/isq/65/2/10.1093_isq_sqab003/1/sqab003_online-appendix_isq.pdf?Expires=1626137156&Signature=ADzc1IokHhCb1sjisusQ2eiT3OWcCZ0TFCzb8WXB6jQxxs8Mko3pgq1PhiF3whN8yyBwCbD6jsK3vpYqQwKR6ze~uoU2qKqxndrMM8yCOnJTbB26Uv32w7tK2suVAZLK~0FUIwOWps0qeEEJ~F0TRc1aq65kNCHkbMKBQ4vhdhx16m1bg4vEsTZsThPRc3dRXt-Y~EJO3LOmjMk5OqZrkMvrO06dvtSoxTP6geUksQjDrFfZNR~0gVUJrgWthjYF~dcySxBbsRcETnBn2SaNlbzbtRnvQ1m1Z5e7xHCxS3wrbo-BRTEbQ7WpioCLdxAFvZ4n~KYz9LUMtEQhhwS01w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" role="button">Supplementary</a>
+<a class="btn btn-primary btn-sm" href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/isq/65/2/10.1093_isq_sqab003/1/sqab003_online-appendix_isq.pdf?Expires=1655156462&Signature=bzVMZDmeb1W4DbDYX7xQxhfvPERTIvWSGFzYxZMUN2z4txPFsLVvb-YoCcI-owZavH~BFe40rGaSCe900trtJ~lu7--MhxRNfkUvsZmoBQOw74ABQ~cPcGqrxv8zelxA2zTk9n7JOLmKJGNY3TMqgcX5FAnaGqyoaeLASOktvyXriBPsQEbSeKFnbp~WMTuY28z0dQrl22UV~cbX9FvaSIfPINZ3pVNn475RtAYK8i796ukyqXifI37zH3haSDL8V1SwvMrCYcuZcY-YG1bBzKf78YvMIpIkKpka92WTBVdmo6b2MQ3X49~jY5WrkzLDxfbIQudnNRQ8roKYBjrVew__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" role="button">Supplementary</a>
 <a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract1"
 role="button" aria-expanded="false" aria-controls="collapseAbstract1">Abstract</a>
 <a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseCitation1"
@@ -26,13 +70,13 @@ Scholars have pinpointed that women's underrepresentation in peacemaking results
 
 <div class="collapse" id="collapseCitation1" data-parent="#paper_1">
 <div class="card card-body-citation">
-@article{KostovicovaPaskhalis2021,
+@article{doi:10.1093/isq/sqab003,
     author = {Kostovicova, Denisa and Paskhalis, Tom},
     title = "{Gender, Justice and Deliberation: Why Women Don't Influence Peacemaking}",
     journal = {International Studies Quarterly},
     volume = {65},
     number = {2},
-    pages = {263-276},
+    pages = {263--276},
     year = {2021},
     issn = {0020-8833},
     doi = {10.1093/isq/sqab003},
@@ -55,46 +99,7 @@ role="button" aria-expanded="false" aria-controls="collapseAbstract5">Abstract</
 
 <div class="collapse" id="collapseAbstract5" data-parent="#paper_5">
 <div class="card card-body-abstract">
-There is currently widespread concern that malicious foreign actors are using social media to interfere in the elections of Western democracies. However, few high-quality data sources exist to investigate the effects of these foreign influence campaigns. We use a unique longitudinal survey of US citizens linked to their Twitter feeds to quantify the effects of exposure to posts from Russian Internet Research Agency (IRA) trolls on attitudes and voting behavior during the 2016 US presidential election. We provide the first direct evidence that exposure to foreign influence campaigns on social media was highly concentrated among an exceptionally small group of users, primarily highly partisan Republicans. A scant 1% of US users accounted for 70% of exposures to Russian troll activity. Furthermore, exposure to foreign influence campaigns was dwarfed by content from domestic news media and politicians. Finally, we test whether exposure to posts from Russian trolls affected political preferences and voting behavior. Across a wide array of outcomes, we find no demonstrable effects of exposure to content from Russian trolls on changes in attitudes, polarization, or voting behavior. Our findings have important implications for our understanding of the limitations of foreign influence campaigns on social media.
-</div>
-</div>
-</div>
-
-"Independent Media Under Pressure: Evidence from Russia.", *under review*  
-(with Bryn Rosenfeld and Katerina Tertytchnaya)
-<div class="container" id="paper_4">
-<p>
-<a class="btn btn-primary btn-sm" href="https://doi.org/10.31219/osf.io/pz68w" role="button">Preprint</a>
-<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract4"
-role="button" aria-expanded="false" aria-controls="collapseAbstract4">Abstract</a>
-<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseCitation4"
-role="button" aria-expanded="false" aria-controls="collapseCitation4">Citation</a>
-<a class="btn btn-light btn-sm" data-toggle="collapse" href="#collapseMedia4"
-role="button" aria-expanded="false" aria-controls="collapseMedia4">Media</a>
-</p>
-
-<div class="collapse" id="collapseAbstract4" data-parent="#paper_4">
-<div class="card card-body-abstract">
-Existing literature recognizes growing threats to press freedom around the world and documents changes in the tools used to stifle independent press. However, few studies investigate how independent media respond to state pressure. Do independent outlets comply, orienting coverage to favor regime interests? Or does repression encourage more negative coverage of the regime instead? To shed light on these questions, we investigate how the abrupt removal of independent outlet TV Rain from Russian television providers influenced its coverage. We find that shortly after TV Rain was dropped by providers, the tone of its political coverage became more positive and its similarity with state-controlled television increased. However, these effects were short-lived. Additional evidence suggests that subscription revenue contributed to the station's resilience. These findings, from the first causal test of how attacks influence independent media coverage in a nondemocracy, add to our understanding of media manipulation and authoritarian endurance.
-</div>
-</div>
-
-<div class="collapse" id="collapseCitation4" data-parent="#paper_4">
-<div class="card card-body-citation">
-@article{PaskhalisRosenfeldTertytchnaya,
-    author = {Paskhalis, Tom and Rosenfeld, Bryn and Tertytchnaya, Katerina},
-    title = "{Independent Media Under Pressure: Evidence from Russia}",
-    journal = {Working Paper},
-    year = {2021},
-    doi = {10.31219/osf.io/pz68w},
-    url = {https://doi.org/10.31219/osf.io/pz68w},
-}
-</div>
-</div>
-
-<div class="collapse" id="collapseMedia4" data-parent="#paper_4">
-<div class="card card-body-media">
-<a href = "https://www.washingtonpost.com/politics/2021/06/29/kremlin-has-new-toolkit-shutting-down-independent-news-media/">Monkey Cage</a>
+There is currently widespread concern that malicious foreign actors are using social media to interfere in the elections of Western democracies. However, few high-quality data sources exist to investigate the relationship between exposure to foreign influence campaigns and political attitudes and behavior. We use a unique longitudinal survey of US citizens linked to their Twitter feeds to quantify the relationship between exposure to posts from Russian Internet Research Agency (IRA) accounts and attitudes and voting behavior during the 2016 US presidential election. We provide the first direct evidence that exposure to foreign influence campaigns on social media was highly concentrated among an exceptionally small group of users, primarily highly partisan Republicans. A scant 1% of US users accounted for 70% of exposures to Russian state-sponsored activity on Twitter. Furthermore, exposure to foreign influence campaigns was dwarfed by content from domestic news media and politicians. Finally, we examine the relationship between exposure to posts from IRA accounts and political preferences and voting behavior. Across a wide array of outcomes, we find no demonstrable relationship between exposure to content from these state-operated accounts and changes in attitudes, polarization, or voting behavior. Our findings have important implications for our understanding of the limitations of foreign influence campaigns on social media.
 </div>
 </div>
 </div>
@@ -130,7 +135,7 @@ Previous research has sought to explain the emergence and predominance of early 
 </div>
 </div>
 
-"Path to Fake: Who Goes and How Did They Get There?", *under review*   
+"Path to Fake: Who Goes and How Did They Get There?" 
 (with Richard Bonneau, Joshua Tucker and Jonathan Nagler)
 <div class="container" id="paper_7">
 <p>
