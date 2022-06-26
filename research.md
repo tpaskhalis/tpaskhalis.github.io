@@ -7,7 +7,7 @@ group: navigation
 #### Publications
 
 "Independent Media Under Pressure: Evidence from Russia."
-with Bryn Rosenfeld and Katerina Tertytchnaya, *Post-Soviet Affairs*, 2022, First View
+with Bryn Rosenfeld and Katerina Tertytchnaya, *Post-Soviet Affairs*, 2022, 38 (3), 155-174
 <div class="container" id="paper_4">
 <p>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1080/1060586X.2022.2065840" role="button">Paper</a>
@@ -32,9 +32,9 @@ Existing literature recognizes growing threats to press freedom around the world
     author = {Paskhalis, Tom and Rosenfeld, Bryn and Tertytchnaya, Katerina},
     title = "{Independent Media Under Pressure: Evidence from Russia}",
     journal = {Post-Soviet Affairs},
-    volume = {0},
-    number = {0},
-    pages = {1--20},
+    volume = {38},
+    number = {3},
+    pages = {155--174},
     year  = {2022},
     publisher = {Routledge},
     doi = {10.1080/1060586X.2022.2065840},
