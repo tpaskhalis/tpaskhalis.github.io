@@ -33,7 +33,7 @@ RECSM Summer School, University Pompeu Fabra, 2021-2022
   <a class="btn btn-info btn-sm" role="button" href="https://github.com/tpaskhalis/RECSM_Introduction_Python">Course Website</a>
   </p>
 
-- [Introduction to Computer Programming for Data Analysis I](https://tcd.blackboard.com/webapps/blackboard/execute/courseMain?course_id=_75403_1)
+- [Introduction to Computer Programming for Data Analysis I](https://tcd.blackboard.com/webapps/blackboard/execute/courseMain?course_id=_75403_1)  
 Trinity College Dublin, 2021/22
 
 - [Text Analysis in R](https://github.com/tpaskhalis/VAM_Text_Analysis/)  
