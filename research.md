@@ -6,6 +6,21 @@ group: navigation
 
 #### Publications
 
+"Exposure to the Russian Internet Research Agency foreign influence campaign on Twitter in the 2016 US Election and its relationship to attitudes and voting behavior.", *Nature Communications* forthcoming 
+(with Gregory Eady, Jan Zilinsky, Denis Stukal, Ri  chard Bonneau, Jonathan Nagler and Joshua Tucker)
+<div class="container" id="paper_5">
+<p>
+<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract5"
+role="button" aria-expanded="false" aria-controls="collapseAbstract5">Abstract</a>
+</p>
+
+<div class="collapse" id="collapseAbstract5" data-parent="#paper_5">
+<div class="card card-body-abstract">
+There is widespread concern that foreign actors are using social media to interfere in elections worldwide. Yet data have been unavailable to investigate links between exposure to foreign influence campaigns and political behavior. Using longitudinal survey data from US respondents linked to their Twitter feeds, we quantify the relationship between exposure to the Russian foreign influence campaign and attitudes and voting behavior in the 2016 US election. We demonstrate, first, that exposure to Russian disinformation accounts was heavily concentrated: only 1% of users accounted for 70% of exposures. Second, exposure was concentrated among users who strongly identified as Republicans. Third, exposure to the Russian influence campaign was eclipsed by content from domestic news media and politicians. Finally, we find no evidence of a meaningful relationship between exposure to the Russian foreign influence campaign and changes in attitudes, polarization, or voting behavior. The results have implications for understanding the limits of election interference campaigns on social media.
+</div>
+</div>
+</div>
+
 "Independent Media Under Pressure: Evidence from Russia."
 with Bryn Rosenfeld and Katerina Tertytchnaya, *Post-Soviet Affairs*, 2022, 38 (3), 155-174
 <div class="container" id="paper_4">
@@ -88,21 +103,6 @@ Scholars have pinpointed that women's underrepresentation in peacemaking results
 </div>
 
 #### Working papers
-
-"The Limited Impact of Russia's Election Interference on Twitter in the 2016 US Election.", *R&R*  
-(with Gregory Eady, Jan Zilinsky, Denis Stukal, Richard Bonneau, Jonathan Nagler and Joshua Tucker)
-<div class="container" id="paper_5">
-<p>
-<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract5"
-role="button" aria-expanded="false" aria-controls="collapseAbstract5">Abstract</a>
-</p>
-
-<div class="collapse" id="collapseAbstract5" data-parent="#paper_5">
-<div class="card card-body-abstract">
-There is currently widespread concern that malicious foreign actors are using social media to interfere in the elections of Western democracies. However, few high-quality data sources exist to investigate the relationship between exposure to foreign influence campaigns and political attitudes and behavior. We use a unique longitudinal survey of US citizens linked to their Twitter feeds to quantify the relationship between exposure to posts from Russian Internet Research Agency (IRA) accounts and attitudes and voting behavior during the 2016 US presidential election. We provide the first direct evidence that exposure to foreign influence campaigns on social media was highly concentrated among an exceptionally small group of users, primarily highly partisan Republicans. A scant 1% of US users accounted for 70% of exposures to Russian state-sponsored activity on Twitter. Furthermore, exposure to foreign influence campaigns was dwarfed by content from domestic news media and politicians. Finally, we examine the relationship between exposure to posts from IRA accounts and political preferences and voting behavior. Across a wide array of outcomes, we find no demonstrable relationship between exposure to content from these state-operated accounts and changes in attitudes, polarization, or voting behavior. Our findings have important implications for our understanding of the limitations of foreign influence campaigns on social media.
-</div>
-</div>
-</div>
 
 "Parliament Strikes Back: Agenda-setting and Power Voids in Early Representative Assemblies", *under review*  
 (with Toni Rodon)
