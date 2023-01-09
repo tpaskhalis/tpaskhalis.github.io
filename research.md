@@ -6,17 +6,48 @@ group: navigation
 
 #### Publications
 
-"Exposure to the Russian Internet Research Agency foreign influence campaign on Twitter in the 2016 US Election and its relationship to attitudes and voting behavior.", *Nature Communications* forthcoming 
-(with Gregory Eady, Jan Zilinsky, Denis Stukal, Ri  chard Bonneau, Jonathan Nagler and Joshua Tucker)
+"Exposure to the Russian Internet Research Agency foreign influence campaign on Twitter in the 2016 US Election and its relationship to attitudes and voting behavior."
+with Gregory Eady, Jan Zilinsky, Richard Bonneau, Jonathan Nagler and Joshua Tucker, *Nature Communications*, 2023, 14 (1), 62
+
 <div class="container" id="paper_5">
 <p>
+<a class="btn btn-primary btn-sm" href="https://doi.org/10.1038/s41467-022-35576-9" role="button">Paper</a>
+<a class="btn btn-primary btn-sm" href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-022-35576-9/MediaObjects/41467_2022_35576_MOESM1_ESM.pdf" role="button">Supplementary</a>
 <a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract5"
 role="button" aria-expanded="false" aria-controls="collapseAbstract5">Abstract</a>
+<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseCitation5"
+role="button" aria-expanded="false" aria-controls="collapseCitation5">Citation</a>
+<a class="btn btn-light btn-sm" data-toggle="collapse" href="#collapseMedia5"
+role="button" aria-expanded="false" aria-controls="collapseMedia5">Media</a>
 </p>
 
 <div class="collapse" id="collapseAbstract5" data-parent="#paper_5">
 <div class="card card-body-abstract">
 There is widespread concern that foreign actors are using social media to interfere in elections worldwide. Yet data have been unavailable to investigate links between exposure to foreign influence campaigns and political behavior. Using longitudinal survey data from US respondents linked to their Twitter feeds, we quantify the relationship between exposure to the Russian foreign influence campaign and attitudes and voting behavior in the 2016 US election. We demonstrate, first, that exposure to Russian disinformation accounts was heavily concentrated: only 1% of users accounted for 70% of exposures. Second, exposure was concentrated among users who strongly identified as Republicans. Third, exposure to the Russian influence campaign was eclipsed by content from domestic news media and politicians. Finally, we find no evidence of a meaningful relationship between exposure to the Russian foreign influence campaign and changes in attitudes, polarization, or voting behavior. The results have implications for understanding the limits of election interference campaigns on social media.
+</div>
+</div>
+
+<div class="collapse" id="collapseCitation5" data-parent="#paper_5">
+<div class="card card-body-citation">
+@Article{doi:10.1038/s41467-022-35576-9:
+    author   = {Eady, Gregory and Paskhalis, Tom and Zilinsky, Jan and Bonneau, Richard and Nagler, Jonathan and Tucker, Joshua A.},
+    title    = "{Exposure to the Russian Internet Research Agency foreign influence campaign on Twitter in the 2016 US election and its relationship to attitudes and voting behavior}",
+    journal  = {Nature Communications},
+    year     = {2023},
+    volume   = {14},
+    number   = {1},
+    pages    = {62},
+    doi      = {10.1038/s41467-022-35576-9},
+    url      = {https://doi.org/10.1038/s41467-022-35576-9},
+}
+</div>
+</div>
+
+<div class="collapse" id="collapseMedia5" data-parent="#paper_5">
+<div class="card card-body-media">
+<a href = "https://www.irishtimes.com/world/americas/2023/01/09/russian-twitter-campaign-targeting-us-election-did-not-sway-voters-study/">The Irish Times</a>
+<br>
+<a href = "https://www.washingtonpost.com/politics/2023/01/09/russian-trolls-twitter-had-little-influence-2016-voters/">The Washington Post</a>
 </div>
 </div>
 </div>
@@ -43,15 +74,14 @@ Existing literature recognizes growing threats to press freedom around the world
 
 <div class="collapse" id="collapseCitation4" data-parent="#paper_4">
 <div class="card card-body-citation">
-@article{doi:10.1080/1060586X.2022.2065840,
+@Article{doi:10.1080/1060586X.2022.2065840,
     author = {Paskhalis, Tom and Rosenfeld, Bryn and Tertytchnaya, Katerina},
     title = "{Independent Media Under Pressure: Evidence from Russia}",
     journal = {Post-Soviet Affairs},
+    year  = {2022},
     volume = {38},
     number = {3},
     pages = {155--174},
-    year  = {2022},
-    publisher = {Routledge},
     doi = {10.1080/1060586X.2022.2065840},
     url = {https://doi.org/10.1080/1060586X.2022.2065840},
 }
@@ -85,15 +115,14 @@ Scholars have pinpointed that women's underrepresentation in peacemaking results
 
 <div class="collapse" id="collapseCitation1" data-parent="#paper_1">
 <div class="card card-body-citation">
-@article{doi:10.1093/isq/sqab003,
+@Article{doi:10.1093/isq/sqab003,
     author = {Kostovicova, Denisa and Paskhalis, Tom},
     title = "{Gender, Justice and Deliberation: Why Women Don't Influence Peacemaking}",
     journal = {International Studies Quarterly},
+    year = {2021},
     volume = {65},
     number = {2},
     pages = {263--276},
-    year = {2021},
-    issn = {0020-8833},
     doi = {10.1093/isq/sqab003},
     url = {https://doi.org/10.1093/isq/sqab003},
     eprint = {https://academic.oup.com/isq/article-pdf/65/2/263/37955727/sqab003.pdf},
@@ -123,7 +152,7 @@ Previous research has sought to explain the emergence and predominance of early 
 
 <div class="collapse" id="collapseCitation3" data-parent="#paper_3">
 <div class="card card-body-citation">
-@article{RodonPaskhalis,
+@Article{doi:10.31219/osf.io/qgu9c,
     author = {Rodon, Toni and Paskhalis, Tom},
     title = "{Parliament Strikes Back: Agenda-setting and Power Voids in Early Representative Assemblies}",
     journal = {Working Paper},
