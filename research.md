@@ -7,12 +7,16 @@ group: navigation
 #### Publications
 
 "Exposure to the Russian Internet Research Agency foreign influence campaign on Twitter in the 2016 US Election and its relationship to attitudes and voting behavior."
-with Gregory Eady, Jan Zilinsky, Richard Bonneau, Jonathan Nagler and Joshua Tucker, *Nature Communications*, 2023, 14 (1), 62
+<br>
+with Gregory Eady, Jan Zilinsky, Richard Bonneau, Jonathan Nagler and Joshua Tucker
+<br>
+*Nature Communications*, 2023, 14 (1), 62
 
 <div class="container" id="paper_5">
 <p>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1038/s41467-022-35576-9" role="button">Paper</a>
 <a class="btn btn-primary btn-sm" href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-022-35576-9/MediaObjects/41467_2022_35576_MOESM1_ESM.pdf" role="button">Supplementary</a>
+<a class="btn btn-warning btn-sm" href="https://github.com/tpaskhalis/ncomms_russia_us_2016" role="button">Replication</a>
 <a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract5"
 role="button" aria-expanded="false" aria-controls="collapseAbstract5">Abstract</a>
 <a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseCitation5"
@@ -45,6 +49,8 @@ There is widespread concern that foreign actors are using social media to interf
 
 <div class="collapse" id="collapseMedia5" data-parent="#paper_5">
 <div class="card card-body-media">
+<a href = "https://www.irishexaminer.com/news/arid-41044250.html">The Irish Examiner</a>
+<br>
 <a href = "https://www.irishtimes.com/world/americas/2023/01/09/russian-twitter-campaign-targeting-us-election-did-not-sway-voters-study/">The Irish Times</a>
 <br>
 <a href = "https://www.washingtonpost.com/politics/2023/01/09/russian-trolls-twitter-had-little-influence-2016-voters/">The Washington Post</a>
@@ -53,7 +59,10 @@ There is widespread concern that foreign actors are using social media to interf
 </div>
 
 "Independent Media Under Pressure: Evidence from Russia."
-with Bryn Rosenfeld and Katerina Tertytchnaya, *Post-Soviet Affairs*, 2022, 38 (3), 155-174
+<br>
+with Bryn Rosenfeld and Katerina Tertytchnaya
+<br>
+*Post-Soviet Affairs*, 2022, 38 (3), 155-174
 <div class="container" id="paper_4">
 <p>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1080/1060586X.2022.2065840" role="button">Paper</a>
@@ -90,17 +99,21 @@ Existing literature recognizes growing threats to press freedom around the world
 
 <div class="collapse" id="collapseMedia4" data-parent="#paper_4">
 <div class="card card-body-media">
-<a href = "https://www.washingtonpost.com/politics/2021/06/29/kremlin-has-new-toolkit-shutting-down-independent-news-media/">Monkey Cage</a>
+<a href = "https://www.washingtonpost.com/politics/2021/06/29/kremlin-has-new-toolkit-shutting-down-independent-news-media/">The Washington Post</a>
 </div>
 </div>
 </div>
 
-"Gender, Justice and Deliberation: Why Women Don’t Influence Peace-making."  
-with Denisa Kostovicova, *International Studies Quarterly*, 2021, 65 (2), 263-276
+"Gender, Justice and Deliberation: Why Women Don’t Influence Peace-making."
+<br>
+with Denisa Kostovicova
+<br>
+*International Studies Quarterly*, 2021, 65 (2), 263-276
 <div class="container" id="paper_1">
 <p>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1093/isq/sqab003" role="button">Paper</a>
-<a class="btn btn-primary btn-sm" href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/isq/65/2/10.1093_isq_sqab003/1/sqab003_online-appendix_isq.pdf?Expires=1655156462&Signature=bzVMZDmeb1W4DbDYX7xQxhfvPERTIvWSGFzYxZMUN2z4txPFsLVvb-YoCcI-owZavH~BFe40rGaSCe900trtJ~lu7--MhxRNfkUvsZmoBQOw74ABQ~cPcGqrxv8zelxA2zTk9n7JOLmKJGNY3TMqgcX5FAnaGqyoaeLASOktvyXriBPsQEbSeKFnbp~WMTuY28z0dQrl22UV~cbX9FvaSIfPINZ3pVNn475RtAYK8i796ukyqXifI37zH3haSDL8V1SwvMrCYcuZcY-YG1bBzKf78YvMIpIkKpka92WTBVdmo6b2MQ3X49~jY5WrkzLDxfbIQudnNRQ8roKYBjrVew__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" role="button">Supplementary</a>
+<a class="btn btn-primary btn-sm" href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/isq/65/2/10.1093_isq_sqab003/1/sqab003_online-appendix_isq.pdf?Expires=1676300219&Signature=zTATgpw16RcuIGKGukZcYw0tkKDoxlR74GryqL63NDfMmujlXnLBQ8xX5M6m28WG4J4~dftYSHAu4Mx-uJ~M8iFrOZeWa25sAGRBGk1ZD1BvFAtWApToItnyk1duvaChJegFEHE619K0gSHXzLfhON-fVkKdmIT-u-xVEeJYOlFD68g5zu9zHwfIAw1UZOPMO2FBVZFbsTsNETCX5EiKP8PiD2MhsN0cNdCGnFqiT19Tw5tfGp95ONi9NhwvEMuELcK71dPl3ckLwt0ZQN64ugavBdJ~HOc9HW4NwqmOxabVruUiX89GtZ7cjHhtffQKQ38hWP-dehJ46OUsxyelow__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" role="button">Supplementary</a>
+<a class="btn btn-warning btn-sm" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PMICO2" role="button">Replication</a>
 <a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract1"
 role="button" aria-expanded="false" aria-controls="collapseAbstract1">Abstract</a>
 <a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseCitation1"
@@ -133,8 +146,29 @@ Scholars have pinpointed that women's underrepresentation in peacemaking results
 
 #### Working papers
 
-"Parliament Strikes Back: Agenda-setting and Power Voids in Early Representative Assemblies", *under review*  
-(with Toni Rodon)
+"Path to Fake: Who Goes and How Did They Get There?"
+<br>
+with Richard Bonneau, Joshua Tucker and Jonathan Nagler
+<br>
+*R&R*
+<div class="container" id="paper_7">
+<p>
+<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract7"
+role="button" aria-expanded="false" aria-controls="collapseAbstract7">Abstract</a>
+</p>
+
+<div class="collapse" id="collapseAbstract7" data-parent="#paper_7">
+<div class="card card-body-abstract">
+Dubious websites advancing so called 'fake-news' have received a lot of attention, especially during polarized electoral campaigns. While much of the research has been focused on their pervasiveness and prevalence in voters' media diets, we know less about the people who are prone to consume misleading information online and more importantly how they reach the websites that spread it. To answer these questions we analyze a nationally representative panel collected during the 2018 US midterm election containing detailed information on the web browsing activity of respondents for 2 months during the electoral campaign. We find that, on average, unreliable news constitute about 5% of respondents' online media diet and that older and more conservative respondents are more likely to visit unreliable news websites. While social media platforms form a more prominent source of transitions to untrustworthy than credible websites, unreliable news appear to form a routine, organic part of online news diet for most prominent consumers of 'fake-news'.
+</div>
+</div>
+</div>
+
+"Parliament Strikes Back: Agenda-setting and Power Voids in Early Representative Assemblies"
+<br>
+with Toni Rodon
+<br>
+ *under review*
 <div class="container" id="paper_3">
 <p>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.31219/osf.io/qgu9c" role="button">Preprint</a>
@@ -164,23 +198,9 @@ Previous research has sought to explain the emergence and predominance of early 
 </div>
 </div>
 
-"Path to Fake: Who Goes and How Did They Get There?" 
-(with Richard Bonneau, Joshua Tucker and Jonathan Nagler)
-<div class="container" id="paper_7">
-<p>
-<a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract7"
-role="button" aria-expanded="false" aria-controls="collapseAbstract7">Abstract</a>
-</p>
-
-<div class="collapse" id="collapseAbstract7" data-parent="#paper_7">
-<div class="card card-body-abstract">
-Dubious websites advancing so called 'fake-news' have received a lot of attention, especially during polarized electoral campaigns. While much of the research has been focused on their pervasiveness and prevalence in voters' media diets, we know less about the people who are prone to consume misleading information online and more importantly how they reach the websites that spread it. To answer these questions we analyze a nationally representative panel collected during the 2018 US midterm election containing detailed information on the web browsing activity of respondents for 2 months during the electoral campaign. We find that, on average, unreliable news constitute about 5% of respondents' online media diet and that older and more conservative respondents are more likely to visit unreliable news websites. While social media platforms form a more prominent source of transitions to untrustworthy than credible websites, unreliable news appear to form a routine, organic part of online news diet for most prominent consumers of 'fake-news'.
-</div>
-</div>
-</div>
-
 "Emotion Shift and Transitional Justice in the Balkans",  
-(with Denisa Kostovicova and Ivor Sokolic)
+<br>
+with Denisa Kostovicova and Ivor Sokolic
 <div class="container" id="paper_8">
 <p>
 <a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract8"
@@ -225,8 +245,9 @@ The recent years have seen the emergence of new, more scalable ways to link info
 </div>
 </div>
 
-"Learning Media Quality from Facebook Data"  
-(with Kevin Aslett, Cody Buntain, Zhanna Terechshenko, Joshua Tucker, Jonathan Nagler and Richard Bonneau)
+"Learning Media Quality from Facebook Data"
+<br> 
+with Kevin Aslett, Cody Buntain, Zhanna Terechshenko, Joshua Tucker, Jonathan Nagler and Richard Bonneau
 <div class="container" id="paper_9">
 <p>
 <a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract9"
