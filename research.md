@@ -198,7 +198,7 @@ Previous research has sought to explain the emergence and predominance of early 
 </div>
 </div>
 
-"Emotion Shift and Transitional Justice in the Balkans",  
+"Emotion Shift and Transitional Justice in the Balkans" 
 <br>
 with Denisa Kostovicova and Ivor Sokolic
 <div class="container" id="paper_8">
