@@ -16,11 +16,11 @@ with Gregory Eady, Jan Zilinsky, Richard Bonneau, Jonathan Nagler and Joshua Tuc
 <p>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1038/s41467-022-35576-9" role="button">Paper</a>
 <a class="btn btn-primary btn-sm" href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-022-35576-9/MediaObjects/41467_2022_35576_MOESM1_ESM.pdf" role="button">Supplementary</a>
-<a class="btn btn-warning btn-sm" href="https://github.com/tpaskhalis/ncomms_russia_us_2016" role="button">Replication</a>
 <a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract5"
 role="button" aria-expanded="false" aria-controls="collapseAbstract5">Abstract</a>
 <a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseCitation5"
 role="button" aria-expanded="false" aria-controls="collapseCitation5">Citation</a>
+<a class="btn btn-success btn-sm" href="https://github.com/tpaskhalis/ncomms_russia_us_2016" role="button">Replication</a>
 <a class="btn btn-light btn-sm" data-toggle="collapse" href="#collapseMedia5"
 role="button" aria-expanded="false" aria-controls="collapseMedia5">Media</a>
 </p>
@@ -33,7 +33,7 @@ There is widespread concern that foreign actors are using social media to interf
 
 <div class="collapse" id="collapseCitation5" data-parent="#paper_5">
 <div class="card card-body-citation">
-@Article{doi:10.1038/s41467-022-35576-9:
+@Article{doi:10.1038/s41467-022-35576-9,
     author   = {Eady, Gregory and Paskhalis, Tom and Zilinsky, Jan and Bonneau, Richard and Nagler, Jonathan and Tucker, Joshua A.},
     title    = "{Exposure to the Russian Internet Research Agency foreign influence campaign on Twitter in the 2016 US election and its relationship to attitudes and voting behavior}",
     journal  = {Nature Communications},
@@ -113,11 +113,11 @@ with Denisa Kostovicova
 <p>
 <a class="btn btn-primary btn-sm" href="https://doi.org/10.1093/isq/sqab003" role="button">Paper</a>
 <a class="btn btn-primary btn-sm" href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/isq/65/2/10.1093_isq_sqab003/1/sqab003_online-appendix_isq.pdf?Expires=1676300219&Signature=zTATgpw16RcuIGKGukZcYw0tkKDoxlR74GryqL63NDfMmujlXnLBQ8xX5M6m28WG4J4~dftYSHAu4Mx-uJ~M8iFrOZeWa25sAGRBGk1ZD1BvFAtWApToItnyk1duvaChJegFEHE619K0gSHXzLfhON-fVkKdmIT-u-xVEeJYOlFD68g5zu9zHwfIAw1UZOPMO2FBVZFbsTsNETCX5EiKP8PiD2MhsN0cNdCGnFqiT19Tw5tfGp95ONi9NhwvEMuELcK71dPl3ckLwt0ZQN64ugavBdJ~HOc9HW4NwqmOxabVruUiX89GtZ7cjHhtffQKQ38hWP-dehJ46OUsxyelow__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" role="button">Supplementary</a>
-<a class="btn btn-warning btn-sm" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PMICO2" role="button">Replication</a>
 <a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseAbstract1"
 role="button" aria-expanded="false" aria-controls="collapseAbstract1">Abstract</a>
 <a class="btn btn-info btn-sm" data-toggle="collapse" href="#collapseCitation1"
 role="button" aria-expanded="false" aria-controls="collapseCitation1">Citation</a>
+<a class="btn btn-success btn-sm" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PMICO2" role="button">Replication</a>
 </p>
 
 <div class="collapse" id="collapseAbstract1" data-parent="#paper_1">
@@ -198,7 +198,7 @@ Previous research has sought to explain the emergence and predominance of early 
 </div>
 </div>
 
-"Emotion Shift and Transitional Justice in the Balkans" 
+"Emotion Shift and Transitional Justice in the Balkans"
 <br>
 with Denisa Kostovicova and Ivor Sokolic
 <div class="container" id="paper_8">
