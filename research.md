@@ -49,7 +49,13 @@ There is widespread concern that foreign actors are using social media to interf
 
 <div class="collapse" id="collapseMedia5" data-parent="#paper_5">
 <div class="card card-body-media">
-<a href = "https://www.irishexaminer.com/news/arid-41044250.html">The Irish Examiner</a>
+<a href = "https://www.irishexaminer.com/news/arid-41044250.html">Irish Examiner</a>
+<br>
+<a href = "https://www.independent.ie/news/voters-in-2016-us-election-unaffected-by-russian-interference-new-report-co-authored-by-trinity-researchers-finds-42274101.html">Irish Independent</a>
+<br>
+<a href = "https://skynews.icu/science/204094-russian-twitter-campaigns-during-the-2016-presidential-race-didnt-change-voting-behavior/">Sky News</a>
+<br>
+<a href = "https://www.techcentral.ie/twitter-disinformation-campaigns-did-not-affect-result-of-2016-us-presidential-election-study/">TechCentral.ie</a>
 <br>
 <a href = "https://www.irishtimes.com/world/americas/2023/01/09/russian-twitter-campaign-targeting-us-election-did-not-sway-voters-study/">The Irish Times</a>
 <br>
