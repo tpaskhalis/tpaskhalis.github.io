@@ -49,6 +49,8 @@ There is widespread concern that foreign actors are using social media to interf
 
 <div class="collapse" id="collapseMedia5" data-parent="#paper_5">
 <div class="card card-body-media">
+<a href = "https://www.hs.fi/ulkomaat/art-2000009317938.html">Helsingin Sanomat</a>
+<br>
 <a href = "https://www.irishexaminer.com/news/arid-41044250.html">Irish Examiner</a>
 <br>
 <a href = "https://www.independent.ie/news/voters-in-2016-us-election-unaffected-by-russian-interference-new-report-co-authored-by-trinity-researchers-finds-42274101.html">Irish Independent</a>
