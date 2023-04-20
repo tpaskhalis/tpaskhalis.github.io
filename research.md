@@ -59,9 +59,14 @@ There is widespread concern that foreign actors are using social media to interf
 <br>
 <a href = "https://www.techcentral.ie/twitter-disinformation-campaigns-did-not-affect-result-of-2016-us-presidential-election-study/">TechCentral.ie</a>
 <br>
+<a href = "https://www.theatlantic.com/technology/archive/2023/01/2016-us-election-outcome-russian-social-media-trolls/672836/">The Atlantic</a>
+<br>
 <a href = "https://www.irishtimes.com/world/americas/2023/01/09/russian-twitter-campaign-targeting-us-election-did-not-sway-voters-study/">The Irish Times</a>
 <br>
+<a href = "https://www.wsj.com/articles/does-twitter-disinformation-even-work-russian-trolls-2016-election-nature-communications-study-elon-musk-donald-trump-vladimir-putin-11673375453">The Wall Street Journal</a>
+<br>
 <a href = "https://www.washingtonpost.com/politics/2023/01/09/russian-trolls-twitter-had-little-influence-2016-voters/">The Washington Post</a>
+<a href = "https://www.vox.com/policy-and-politics/2023/1/20/23559214/russia-2016-election-trolls-study-email-hack">Vox</a>
 </div>
 </div>
 </div>
@@ -254,7 +259,7 @@ The recent years have seen the emergence of new, more scalable ways to link info
 </div>
 
 "Learning Media Quality from Facebook Data"
-<br> 
+<br>
 with Kevin Aslett, Cody Buntain, Zhanna Terechshenko, Joshua Tucker, Jonathan Nagler and Richard Bonneau
 <div class="container" id="paper_9">
 <p>
